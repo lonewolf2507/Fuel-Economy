@@ -1,0 +1,931 @@
+,model_2008,displ_2008,cyl_2008,trans_2008,drive_2008,fuel_2008,veh_class_2008,air_pollut_2008,city_mpg_2008,hwy_mpg_2008,cmb_mpg_2008,greenhouse_2008,smartway_2008,model,displ,cyl,trans,drive,fuel,veh_class,air_pollution_score,city_mpg,hwy_mpg,cmb_mpg,greenhouse_gas_score,smartway
+0,ACURA RDX,2.3,4,Auto-S5,4WD,Gasoline,SUV,7.0,17.0,22.0,19.0,5,no,ACURA RDX,3.5,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20.0,28.0,23.0,5,No
+1,ACURA RDX,2.3,4,Auto-S5,4WD,Gasoline,SUV,7.0,17.0,22.0,19.0,5,no,ACURA RDX,3.5,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19.0,27.0,22.0,4,No
+2,AUDI A3,2.0,4,Man-6,2WD,Gasoline,station wagon,7.0,21.0,29.0,24.0,7,yes,AUDI A3,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,24.0,31.0,27.0,6,No
+3,AUDI A3,2.0,4,Man-6,2WD,Gasoline,station wagon,7.0,21.0,29.0,24.0,7,yes,AUDI A3,2.0,4.0,AMS-7,2WD,Gasoline,small car,7,26.0,35.0,29.0,6,No
+4,AUDI A3,2.0,4,Auto-S6,2WD,Gasoline,station wagon,7.0,22.0,29.0,25.0,7,yes,AUDI A3,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,24.0,31.0,27.0,6,No
+5,AUDI A3,2.0,4,Auto-S6,2WD,Gasoline,station wagon,7.0,22.0,29.0,25.0,7,yes,AUDI A3,2.0,4.0,AMS-7,2WD,Gasoline,small car,7,26.0,35.0,29.0,6,No
+6,AUDI A3,3.2,6,Auto-S6,4WD,Gasoline,station wagon,6.0,18.0,25.0,21.0,6,no,AUDI A3,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,24.0,31.0,27.0,6,No
+7,AUDI A3,3.2,6,Auto-S6,4WD,Gasoline,station wagon,6.0,18.0,25.0,21.0,6,no,AUDI A3,2.0,4.0,AMS-7,2WD,Gasoline,small car,7,26.0,35.0,29.0,6,No
+8,AUDI A4,2.0,4,Auto-AV,2WD,Gasoline,small car,7.0,21.0,30.0,24.0,7,yes,AUDI A4,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24.0,34.0,27.0,6,No
+9,AUDI A4,2.0,4,Auto-AV,2WD,Gasoline,small car,7.0,21.0,30.0,24.0,7,yes,AUDI A4,2.0,4.0,Man-6,4WD,Gasoline,small car,3,24.0,33.0,27.0,6,No
+10,AUDI A4,3.1,6,Man-6,4WD,Gasoline,small car,6.0,15.0,25.0,19.0,5,no,AUDI A4,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24.0,34.0,27.0,6,No
+11,AUDI A4,3.1,6,Man-6,4WD,Gasoline,small car,6.0,15.0,25.0,19.0,5,no,AUDI A4,2.0,4.0,Man-6,4WD,Gasoline,small car,3,24.0,33.0,27.0,6,No
+12,AUDI A4,3.1,6,Auto-S6,4WD,Gasoline,small car,6.0,17.0,25.0,20.0,6,no,AUDI A4,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24.0,34.0,27.0,6,No
+13,AUDI A4,3.1,6,Auto-S6,4WD,Gasoline,small car,6.0,17.0,25.0,20.0,6,no,AUDI A4,2.0,4.0,Man-6,4WD,Gasoline,small car,3,24.0,33.0,27.0,6,No
+14,AUDI A4,3.1,6,Auto-AV,2WD,Gasoline,small car,6.0,18.0,27.0,21.0,6,no,AUDI A4,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24.0,34.0,27.0,6,No
+15,AUDI A4,3.1,6,Auto-AV,2WD,Gasoline,small car,6.0,18.0,27.0,21.0,6,no,AUDI A4,2.0,4.0,Man-6,4WD,Gasoline,small car,3,24.0,33.0,27.0,6,No
+16,AUDI A6,3.1,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,AUDI A6,2.0,4.0,AMS-7,2WD,Gasoline,midsize car,5,25.0,34.0,28.0,6,No
+17,AUDI A6,3.1,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,AUDI A6,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,22.0,31.0,26.0,5,No
+18,AUDI A6,3.1,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,AUDI A6,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,3,20.0,29.0,23.0,5,No
+19,AUDI A6,3.1,6,Auto-AV,2WD,Gasoline,midsize car,6.0,18.0,27.0,21.0,6,no,AUDI A6,2.0,4.0,AMS-7,2WD,Gasoline,midsize car,5,25.0,34.0,28.0,6,No
+20,AUDI A6,3.1,6,Auto-AV,2WD,Gasoline,midsize car,6.0,18.0,27.0,21.0,6,no,AUDI A6,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,22.0,31.0,26.0,5,No
+21,AUDI A6,3.1,6,Auto-AV,2WD,Gasoline,midsize car,6.0,18.0,27.0,21.0,6,no,AUDI A6,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,3,20.0,29.0,23.0,5,No
+22,AUDI A6,4.2,8,Auto-S6,4WD,Gasoline,midsize car,6.0,16.0,23.0,18.0,5,no,AUDI A6,2.0,4.0,AMS-7,2WD,Gasoline,midsize car,5,25.0,34.0,28.0,6,No
+23,AUDI A6,4.2,8,Auto-S6,4WD,Gasoline,midsize car,6.0,16.0,23.0,18.0,5,no,AUDI A6,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,22.0,31.0,26.0,5,No
+24,AUDI A6,4.2,8,Auto-S6,4WD,Gasoline,midsize car,6.0,16.0,23.0,18.0,5,no,AUDI A6,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,3,20.0,29.0,23.0,5,No
+25,AUDI A8 L,4.2,8,Auto-S6,4WD,Gasoline,large car,6.0,16.0,23.0,18.0,5,no,AUDI A8 L,3.0,6.0,SemiAuto-8,4WD,Gasoline,large car,3,19.0,29.0,22.0,4,No
+26,AUDI A8 L,6.0,12,Auto-S6,4WD,Gasoline,large car,6.0,13.0,19.0,15.0,3,no,AUDI A8 L,3.0,6.0,SemiAuto-8,4WD,Gasoline,large car,3,19.0,29.0,22.0,4,No
+27,AUDI Q7,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,14.0,20.0,16.0,4,no,AUDI Q7,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,19.0,25.0,21.0,4,No
+28,AUDI Q7,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,14.0,20.0,16.0,4,no,AUDI Q7,3.0,6.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,19.0,25.0,21.0,4,No
+29,AUDI Q7,4.2,8,Auto-S6,4WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,AUDI Q7,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,19.0,25.0,21.0,4,No
+30,AUDI Q7,4.2,8,Auto-S6,4WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,AUDI Q7,3.0,6.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,19.0,25.0,21.0,4,No
+31,AUDI S4,4.2,8,Man-6,4WD,Gasoline,small car,6.0,13.0,20.0,15.0,3,no,AUDI S4,3.0,6.0,AMS-8,4WD,Gasoline,small car,5,21.0,30.0,24.0,5,No
+32,AUDI S4,4.2,8,Auto-S6,4WD,Gasoline,small car,6.0,14.0,21.0,16.0,4,no,AUDI S4,3.0,6.0,AMS-8,4WD,Gasoline,small car,5,21.0,30.0,24.0,5,No
+33,AUDI S5,4.2,8,Man-6,4WD,Gasoline,small car,6.0,14.0,21.0,16.0,4,no,AUDI S5,3.0,6.0,AMS-8,4WD,Gasoline,small car,5,21.0,30.0,24.0,5,No
+34,AUDI TT Coupe,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,23.0,31.0,26.0,8,yes,AUDI TT Coupe,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23.0,30.0,26.0,5,No
+35,AUDI TT Coupe,3.2,6,Man-6,4WD,Gasoline,small car,6.0,17.0,24.0,19.0,5,no,AUDI TT Coupe,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23.0,30.0,26.0,5,No
+36,AUDI TT Coupe,3.2,6,Auto-S6,4WD,Gasoline,small car,6.0,18.0,24.0,20.0,6,no,AUDI TT Coupe,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23.0,30.0,26.0,5,No
+37,AUDI TT Roadster,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes,AUDI TT Roadster,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23.0,30.0,26.0,5,No
+38,AUDI TT Roadster,3.2,6,Man-6,4WD,Gasoline,small car,6.0,17.0,24.0,19.0,5,no,AUDI TT Roadster,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23.0,30.0,26.0,5,No
+39,AUDI TT Roadster,3.2,6,Auto-S6,4WD,Gasoline,small car,6.0,18.0,24.0,20.0,6,no,AUDI TT Roadster,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23.0,30.0,26.0,5,No
+40,BMW 750i,4.8,8,Auto-S6,2WD,Gasoline,large car,7.0,17.0,25.0,20.0,6,yes,BMW 750i,4.4,8.0,SemiAuto-8,2WD,Gasoline,large car,3,17.0,25.0,20.0,4,No
+41,BMW 750i,4.8,8,Auto-S6,2WD,Gasoline,large car,7.0,17.0,25.0,20.0,6,yes,BMW 750i,4.4,8.0,SemiAuto-8,4WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+42,BMW Alpina B7,4.4,8,Auto-S6,2WD,Gasoline,large car,6.0,15.0,23.0,18.0,5,no,BMW Alpina B7,4.4,8.0,SemiAuto-8,4WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+43,BMW M6 Convertible,5.0,10,Man-6,2WD,Gasoline,small car,6.0,12.0,18.0,14.0,2,no,BMW M6 Convertible,4.4,8.0,AMS-7,2WD,Gasoline,small car,1,14.0,20.0,16.0,2,No
+44,BMW M6 Convertible,5.0,10,Man-6,2WD,Gasoline,small car,6.0,12.0,18.0,14.0,2,no,BMW M6 Convertible,4.4,8.0,Man-6,2WD,Gasoline,small car,1,15.0,22.0,17.0,3,No
+45,BMW M6 Convertible,5.0,10,Auto-S7,2WD,Gasoline,small car,6.0,12.0,19.0,14.0,2,no,BMW M6 Convertible,4.4,8.0,AMS-7,2WD,Gasoline,small car,1,14.0,20.0,16.0,2,No
+46,BMW M6 Convertible,5.0,10,Auto-S7,2WD,Gasoline,small car,6.0,12.0,19.0,14.0,2,no,BMW M6 Convertible,4.4,8.0,Man-6,2WD,Gasoline,small car,1,15.0,22.0,17.0,3,No
+47,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,30.0,25.0,5,No
+48,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21.0,29.0,24.0,5,No
+49,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16.0,24.0,19.0,3,No
+50,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20.0,30.0,24.0,5,No
+51,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19.0,27.0,22.0,4,No
+52,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,30.0,25.0,5,No
+53,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21.0,29.0,24.0,5,No
+54,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16.0,24.0,19.0,3,No
+55,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20.0,30.0,24.0,5,No
+56,CADILLAC CTS,3.6,6,Man-6,2WD,Gasoline,midsize car,6.0,16.0,25.0,19.0,5,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19.0,27.0,22.0,4,No
+57,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,30.0,25.0,5,No
+58,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21.0,29.0,24.0,5,No
+59,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16.0,24.0,19.0,3,No
+60,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20.0,30.0,24.0,5,No
+61,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,25.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19.0,27.0,22.0,4,No
+62,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,30.0,25.0,5,No
+63,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21.0,29.0,24.0,5,No
+64,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16.0,24.0,19.0,3,No
+65,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20.0,30.0,24.0,5,No
+66,CADILLAC CTS,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19.0,27.0,22.0,4,No
+67,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,30.0,25.0,5,No
+68,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21.0,29.0,24.0,5,No
+69,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16.0,24.0,19.0,3,No
+70,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20.0,30.0,24.0,5,No
+71,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19.0,27.0,22.0,4,No
+72,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,18.0,26.0,21.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,30.0,25.0,5,No
+73,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,18.0,26.0,21.0,6,no,CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21.0,29.0,24.0,5,No
+74,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,18.0,26.0,21.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16.0,24.0,19.0,3,No
+75,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,18.0,26.0,21.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20.0,30.0,24.0,5,No
+76,CADILLAC CTS,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,18.0,26.0,21.0,6,no,CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19.0,27.0,22.0,4,No
+77,CADILLAC Escalade,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CADILLAC Escalade,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14.0,23.0,17.0,3,No
+78,CADILLAC Escalade,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CADILLAC Escalade,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14.0,21.0,17.0,3,No
+79,CADILLAC Escalade,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,CADILLAC Escalade,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14.0,23.0,17.0,3,No
+80,CADILLAC Escalade,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,CADILLAC Escalade,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14.0,21.0,17.0,3,No
+81,CHEVROLET Corvette,7.0,8,Man-6,2WD,Gasoline,small car,6.0,15.0,24.0,18.0,5,no,CHEVROLET Corvette,6.2,8.0,Man-7,2WD,Gasoline,small car,1,15.0,22.0,18.0,3,No
+82,CHEVROLET Corvette,7.0,8,Man-6,2WD,Gasoline,small car,6.0,15.0,24.0,18.0,5,no,CHEVROLET Corvette,6.2,8.0,Man-7,2WD,Gasoline,small car,1,16.0,25.0,19.0,3,No
+83,CHEVROLET Corvette,7.0,8,Man-6,2WD,Gasoline,small car,6.0,15.0,24.0,18.0,5,no,CHEVROLET Corvette,6.2,8.0,SemiAuto-8,2WD,Gasoline,small car,1,13.0,23.0,16.0,2,No
+84,CHEVROLET Corvette,7.0,8,Man-6,2WD,Gasoline,small car,6.0,15.0,24.0,18.0,5,no,CHEVROLET Corvette,6.2,8.0,SemiAuto-8,2WD,Gasoline,small car,1,15.0,25.0,18.0,3,No
+85,CHEVROLET Equinox,3.4,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,2WD,Gasoline,small SUV,5,26.0,32.0,28.0,6,No
+86,CHEVROLET Equinox,3.4,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,4WD,Gasoline,small SUV,5,24.0,30.0,26.0,5,No
+87,CHEVROLET Equinox,3.4,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,2WD,Diesel,small SUV,3,28.0,39.0,32.0,6,No
+88,CHEVROLET Equinox,3.4,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,4WD,Diesel,small SUV,3,28.0,38.0,32.0,6,No
+89,CHEVROLET Equinox,3.4,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+90,CHEVROLET Equinox,3.4,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,22.0,28.0,24.0,5,No
+91,CHEVROLET Equinox,3.4,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,2WD,Gasoline,small SUV,5,26.0,32.0,28.0,6,No
+92,CHEVROLET Equinox,3.4,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,4WD,Gasoline,small SUV,5,24.0,30.0,26.0,5,No
+93,CHEVROLET Equinox,3.4,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,2WD,Diesel,small SUV,3,28.0,39.0,32.0,6,No
+94,CHEVROLET Equinox,3.4,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,4WD,Diesel,small SUV,3,28.0,38.0,32.0,6,No
+95,CHEVROLET Equinox,3.4,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+96,CHEVROLET Equinox,3.4,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,22.0,28.0,24.0,5,No
+97,CHEVROLET Equinox,3.6,6,Auto-S6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,2WD,Gasoline,small SUV,5,26.0,32.0,28.0,6,No
+98,CHEVROLET Equinox,3.6,6,Auto-S6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,4WD,Gasoline,small SUV,5,24.0,30.0,26.0,5,No
+99,CHEVROLET Equinox,3.6,6,Auto-S6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,2WD,Diesel,small SUV,3,28.0,39.0,32.0,6,No
+100,CHEVROLET Equinox,3.6,6,Auto-S6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,4WD,Diesel,small SUV,3,28.0,38.0,32.0,6,No
+101,CHEVROLET Equinox,3.6,6,Auto-S6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+102,CHEVROLET Equinox,3.6,6,Auto-S6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,22.0,28.0,24.0,5,No
+103,CHEVROLET Equinox,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,2WD,Gasoline,small SUV,5,26.0,32.0,28.0,6,No
+104,CHEVROLET Equinox,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.5,4.0,Auto-6,4WD,Gasoline,small SUV,5,24.0,30.0,26.0,5,No
+105,CHEVROLET Equinox,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,2WD,Diesel,small SUV,3,28.0,39.0,32.0,6,No
+106,CHEVROLET Equinox,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,1.6,4.0,Auto-6,4WD,Diesel,small SUV,3,28.0,38.0,32.0,6,No
+107,CHEVROLET Equinox,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+108,CHEVROLET Equinox,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,CHEVROLET Equinox,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,22.0,28.0,24.0,5,No
+109,CHEVROLET Impala,3.5,6,Auto-L4,2WD,Gasoline,large car,9.5,18.0,29.0,22.0,6,yes,CHEVROLET Impala,2.5,4.0,SemiAuto-6,2WD,Gasoline,large car,3,22.0,30.0,25.0,5,No
+110,CHEVROLET Impala,3.5,6,Auto-L4,2WD,Gasoline,large car,9.5,18.0,29.0,22.0,6,yes,CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Gasoline,large car,7,19.0,28.0,22.0,4,No
+111,CHEVROLET Impala,3.5,6,Auto-L4,2WD,Gasoline,large car,9.5,18.0,29.0,22.0,6,yes,CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Ethanol,large car,5,14.0,20.0,16.0,4,No
+112,CHEVROLET Impala,3.5,6,Auto-L4,2WD,Gasoline,large car,9.5,18.0,29.0,22.0,6,yes,CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Gas,large car,5,18.0,28.0,22.0,4,No
+113,CHEVROLET Impala,5.3,8,Auto-L4,2WD,Gasoline,large car,6.0,16.0,25.0,19.0,5,no,CHEVROLET Impala,2.5,4.0,SemiAuto-6,2WD,Gasoline,large car,3,22.0,30.0,25.0,5,No
+114,CHEVROLET Impala,5.3,8,Auto-L4,2WD,Gasoline,large car,6.0,16.0,25.0,19.0,5,no,CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Gasoline,large car,7,19.0,28.0,22.0,4,No
+115,CHEVROLET Impala,5.3,8,Auto-L4,2WD,Gasoline,large car,6.0,16.0,25.0,19.0,5,no,CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Ethanol,large car,5,14.0,20.0,16.0,4,No
+116,CHEVROLET Impala,5.3,8,Auto-L4,2WD,Gasoline,large car,6.0,16.0,25.0,19.0,5,no,CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Gas,large car,5,18.0,28.0,22.0,4,No
+117,CHEVROLET Malibu,3.5,6,Auto-L4,2WD,Gasoline,midsize car,7.0,18.0,29.0,22.0,6,yes,CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,6,27.0,36.0,30.0,7,Yes
+118,CHEVROLET Malibu,3.5,6,Auto-L4,2WD,Gasoline,midsize car,7.0,18.0,29.0,22.0,6,yes,CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,7,27.0,36.0,30.0,7,Yes
+119,CHEVROLET Malibu,3.5,6,Auto-L4,2WD,Gasoline,midsize car,7.0,18.0,29.0,22.0,6,yes,CHEVROLET Malibu,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,49.0,43.0,46.0,10,Yes
+120,CHEVROLET Malibu,3.5,6,Auto-L4,2WD,Gasoline,midsize car,7.0,18.0,29.0,22.0,6,yes,CHEVROLET Malibu,2.0,4.0,Auto-9,2WD,Gasoline,midsize car,5,22.0,32.0,26.0,5,No
+121,CHEVROLET Malibu,2.4,4,Auto-L4,2WD,Gasoline,midsize car,6.0,22.0,30.0,25.0,7,yes,CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,6,27.0,36.0,30.0,7,Yes
+122,CHEVROLET Malibu,2.4,4,Auto-L4,2WD,Gasoline,midsize car,6.0,22.0,30.0,25.0,7,yes,CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,7,27.0,36.0,30.0,7,Yes
+123,CHEVROLET Malibu,2.4,4,Auto-L4,2WD,Gasoline,midsize car,6.0,22.0,30.0,25.0,7,yes,CHEVROLET Malibu,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,49.0,43.0,46.0,10,Yes
+124,CHEVROLET Malibu,2.4,4,Auto-L4,2WD,Gasoline,midsize car,6.0,22.0,30.0,25.0,7,yes,CHEVROLET Malibu,2.0,4.0,Auto-9,2WD,Gasoline,midsize car,5,22.0,32.0,26.0,5,No
+125,CHEVROLET Malibu,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,6,27.0,36.0,30.0,7,Yes
+126,CHEVROLET Malibu,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,7,27.0,36.0,30.0,7,Yes
+127,CHEVROLET Malibu,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CHEVROLET Malibu,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,49.0,43.0,46.0,10,Yes
+128,CHEVROLET Malibu,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,CHEVROLET Malibu,2.0,4.0,Auto-9,2WD,Gasoline,midsize car,5,22.0,32.0,26.0,5,No
+129,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+130,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+131,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+132,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+133,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+134,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+135,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+136,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+137,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+138,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+139,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+140,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+141,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+142,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+143,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+144,CHEVROLET Silverado 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+145,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+146,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+147,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+148,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+149,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+150,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+151,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+152,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+153,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+154,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+155,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+156,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+157,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+158,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+159,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+160,CHEVROLET Silverado 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+161,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16.0,23.0,19.0,3,No
+162,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,16.0,22.0,18.0,3,No
+163,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14.0,23.0,17.0,3,No
+164,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+165,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,2WD,Ethanol,standard SUV,3,12.0,17.0,14.0,3,No
+166,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,4WD,Ethanol,standard SUV,3,11.0,16.0,13.0,3,No
+167,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,2WD,Gas,standard SUV,3,16.0,23.0,19.0,3,No
+168,CHEVROLET Tahoe 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,4WD,Gas,standard SUV,3,16.0,22.0,18.0,3,No
+169,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+170,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+171,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+172,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+173,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+174,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+175,CHRYSLER 300,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+176,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+177,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+178,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+179,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+180,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+181,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+182,CHRYSLER 300,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+183,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+184,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+185,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+186,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+187,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+188,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+189,CHRYSLER 300,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+190,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+191,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+192,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+193,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+194,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+195,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+196,CHRYSLER 300,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+197,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+198,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+199,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+200,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+201,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+202,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+203,CHRYSLER 300,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+204,CHRYSLER Pacifica,3.8,6,Auto-L4,2WD,Gasoline,SUV,7.0,15.0,22.0,18.0,5,no,CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,18.0,28.0,22.0,4,No
+205,CHRYSLER Pacifica,3.8,6,Auto-L4,2WD,Gasoline,SUV,7.0,15.0,22.0,18.0,5,no,CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,19.0,28.0,22.0,4,No
+206,CHRYSLER Pacifica,4.0,6,Auto-L6,2WD,Gasoline,SUV,7.0,15.0,23.0,17.0,4,no,CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,18.0,28.0,22.0,4,No
+207,CHRYSLER Pacifica,4.0,6,Auto-L6,2WD,Gasoline,SUV,7.0,15.0,23.0,17.0,4,no,CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,19.0,28.0,22.0,4,No
+208,CHRYSLER Pacifica,4.0,6,Auto-L6,4WD,Gasoline,SUV,7.0,14.0,22.0,17.0,4,no,CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,18.0,28.0,22.0,4,No
+209,CHRYSLER Pacifica,4.0,6,Auto-L6,4WD,Gasoline,SUV,7.0,14.0,22.0,17.0,4,no,CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,19.0,28.0,22.0,4,No
+210,DODGE Challenger,6.1,8,Auto-L5,2WD,Gasoline,midsize car,6.0,13.0,18.0,15.0,3,no,DODGE Challenger,3.6,6.0,Auto-8,2WD,Gasoline,midsize car,3,19.0,30.0,23.0,5,No
+211,DODGE Challenger,6.1,8,Auto-L5,2WD,Gasoline,midsize car,6.0,13.0,18.0,15.0,3,no,DODGE Challenger,5.7,8.0,Auto-8,2WD,Gasoline,midsize car,3,16.0,25.0,19.0,3,No
+212,DODGE Challenger,6.1,8,Auto-L5,2WD,Gasoline,midsize car,6.0,13.0,18.0,15.0,3,no,DODGE Challenger,5.7,8.0,Man-6,2WD,Gasoline,midsize car,1,15.0,23.0,18.0,3,No
+213,DODGE Challenger,6.1,8,Auto-L5,2WD,Gasoline,midsize car,6.0,13.0,18.0,15.0,3,no,DODGE Challenger,6.4,8.0,Auto-8,2WD,Gasoline,midsize car,1,15.0,25.0,18.0,3,No
+214,DODGE Challenger,6.1,8,Auto-L5,2WD,Gasoline,midsize car,6.0,13.0,18.0,15.0,3,no,DODGE Challenger,6.4,8.0,Man-6,2WD,Gasoline,midsize car,1,14.0,23.0,17.0,3,No
+215,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+216,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+217,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+218,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15.0,25.0,18.0,3,No
+219,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+220,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+221,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+222,DODGE Charger,3.5,6,Auto-L5,4WD,Gasoline,large car,7.0,15.0,22.0,18.0,5,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+223,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+224,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+225,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+226,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15.0,25.0,18.0,3,No
+227,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+228,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+229,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+230,DODGE Charger,3.5,6,Auto-L5,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+231,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+232,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+233,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+234,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15.0,25.0,18.0,3,No
+235,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+236,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+237,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+238,DODGE Charger,3.5,6,Auto-L4,2WD,Gasoline,large car,7.0,17.0,24.0,20.0,6,yes,DODGE Charger,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+239,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+240,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+241,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+242,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15.0,25.0,18.0,3,No
+243,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+244,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+245,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+246,DODGE Charger,2.7,6,Auto-L4,2WD,Gasoline,large car,6.0,18.0,26.0,21.0,6,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+247,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19.0,30.0,23.0,5,No
+248,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18.0,27.0,21.0,4,No
+249,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16.0,25.0,19.0,3,No
+250,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15.0,25.0,18.0,3,No
+251,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Ethanol,large car,3,14.0,22.0,17.0,5,No
+252,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Ethanol,large car,3,13.0,20.0,16.0,4,No
+253,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,3.6,6.0,Auto-8,2WD,Gas,large car,3,19.0,30.0,23.0,5,No
+254,DODGE Charger,6.1,8,Auto-L5,2WD,Gasoline,large car,6.0,13.0,18.0,15.0,3,no,DODGE Charger,3.6,6.0,Auto-8,4WD,Gas,large car,3,18.0,27.0,21.0,4,No
+255,DODGE Durango,3.7,6,Auto-L4,2WD,Gasoline,SUV,7.0,14.0,19.0,16.0,4,no,DODGE Durango,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+256,DODGE Durango,3.7,6,Auto-L4,2WD,Gasoline,SUV,7.0,14.0,19.0,16.0,4,no,DODGE Durango,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+257,DODGE Durango,3.7,6,Auto-L4,2WD,Gasoline,SUV,7.0,14.0,19.0,16.0,4,no,DODGE Durango,5.7,8.0,Auto-8,2WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+258,DODGE Durango,3.7,6,Auto-L4,2WD,Gasoline,SUV,7.0,14.0,19.0,16.0,4,no,DODGE Durango,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+259,DODGE Durango,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+260,DODGE Durango,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+261,DODGE Durango,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,2WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+262,DODGE Durango,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+263,DODGE Durango,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,13.0,17.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+264,DODGE Durango,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,13.0,17.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+265,DODGE Durango,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,13.0,17.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,2WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+266,DODGE Durango,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,13.0,17.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+267,DODGE Durango,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+268,DODGE Durango,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+269,DODGE Durango,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,2WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+270,DODGE Durango,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+271,DODGE Durango,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+272,DODGE Durango,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,DODGE Durango,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+273,DODGE Durango,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,2WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+274,DODGE Durango,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,DODGE Durango,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+275,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19.0,25.0,21.0,4,No
+276,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,25.0,22.0,4,No
+277,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,26.0,22.0,4,No
+278,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+279,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,24.0,21.0,4,No
+280,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+281,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+282,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,25.0,22.0,4,No
+283,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+284,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+285,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,21.0,19.0,3,No
+286,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+287,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18.0,25.0,21.0,4,No
+288,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,21.0,18.0,3,No
+289,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,22.0,19.0,3,No
+290,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17.0,23.0,19.0,3,No
+291,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+292,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+293,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17.0,23.0,19.0,3,No
+294,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15.0,19.0,17.0,3,No
+295,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+296,FORD F150,5.4,8,Auto-L4,2WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+297,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19.0,25.0,21.0,4,No
+298,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,25.0,22.0,4,No
+299,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,26.0,22.0,4,No
+300,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+301,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,24.0,21.0,4,No
+302,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+303,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+304,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,25.0,22.0,4,No
+305,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+306,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+307,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,21.0,19.0,3,No
+308,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+309,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18.0,25.0,21.0,4,No
+310,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,21.0,18.0,3,No
+311,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,22.0,19.0,3,No
+312,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17.0,23.0,19.0,3,No
+313,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+314,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+315,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17.0,23.0,19.0,3,No
+316,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15.0,19.0,17.0,3,No
+317,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+318,FORD F150,5.4,8,Auto-L4,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+319,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19.0,25.0,21.0,4,No
+320,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,25.0,22.0,4,No
+321,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,26.0,22.0,4,No
+322,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+323,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,24.0,21.0,4,No
+324,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+325,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+326,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,25.0,22.0,4,No
+327,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+328,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+329,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,21.0,19.0,3,No
+330,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+331,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18.0,25.0,21.0,4,No
+332,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,21.0,18.0,3,No
+333,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,22.0,19.0,3,No
+334,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17.0,23.0,19.0,3,No
+335,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+336,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+337,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17.0,23.0,19.0,3,No
+338,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15.0,19.0,17.0,3,No
+339,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+340,FORD F150,4.2,6,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+341,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19.0,25.0,21.0,4,No
+342,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,25.0,22.0,4,No
+343,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,26.0,22.0,4,No
+344,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+345,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,24.0,21.0,4,No
+346,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+347,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+348,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,25.0,22.0,4,No
+349,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+350,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+351,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,21.0,19.0,3,No
+352,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+353,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18.0,25.0,21.0,4,No
+354,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,21.0,18.0,3,No
+355,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,22.0,19.0,3,No
+356,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17.0,23.0,19.0,3,No
+357,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+358,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+359,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17.0,23.0,19.0,3,No
+360,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15.0,19.0,17.0,3,No
+361,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+362,FORD F150,4.2,6,Man-5,2WD,Gasoline,pickup,6.0,14.0,20.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+363,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19.0,25.0,21.0,4,No
+364,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,25.0,22.0,4,No
+365,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,26.0,22.0,4,No
+366,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+367,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,24.0,21.0,4,No
+368,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+369,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+370,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,25.0,22.0,4,No
+371,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+372,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+373,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,21.0,19.0,3,No
+374,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+375,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18.0,25.0,21.0,4,No
+376,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,21.0,18.0,3,No
+377,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,22.0,19.0,3,No
+378,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17.0,23.0,19.0,3,No
+379,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+380,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+381,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17.0,23.0,19.0,3,No
+382,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15.0,19.0,17.0,3,No
+383,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+384,FORD F150,4.6,8,Auto-L4,2WD,Gasoline,pickup,6.0,14.0,19.0,16.0,4,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+385,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19.0,25.0,21.0,4,No
+386,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,25.0,22.0,4,No
+387,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20.0,26.0,22.0,4,No
+388,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+389,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18.0,24.0,21.0,4,No
+390,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+391,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,24.0,21.0,4,No
+392,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19.0,25.0,22.0,4,No
+393,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+394,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18.0,23.0,20.0,4,No
+395,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,21.0,19.0,3,No
+396,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17.0,22.0,19.0,3,No
+397,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18.0,25.0,21.0,4,No
+398,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,21.0,18.0,3,No
+399,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16.0,22.0,19.0,3,No
+400,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17.0,23.0,19.0,3,No
+401,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+402,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+403,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17.0,23.0,19.0,3,No
+404,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15.0,19.0,17.0,3,No
+405,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,20.0,17.0,3,No
+406,FORD F150,4.6,8,Auto-L4,4WD,Gasoline,pickup,6.0,13.0,17.0,14.0,2,no,FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+407,FORD Fusion,2.3,4,Auto-L5,2WD,Gasoline,midsize car,9.5,20.0,28.0,23.0,7,yes,FORD Fusion,1.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,23.0,34.0,27.0,6,No
+408,FORD Fusion,2.3,4,Auto-L5,2WD,Gasoline,midsize car,9.5,20.0,28.0,23.0,7,yes,FORD Fusion,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,21.0,31.0,25.0,5,No
+409,FORD Fusion,2.3,4,Auto-L5,2WD,Gasoline,midsize car,9.5,20.0,28.0,23.0,7,yes,FORD Fusion,2.0,4.0,SemiAuto-6,4WD,Gasoline,midsize car,5,20.0,29.0,23.0,5,No
+410,FORD Fusion,2.3,4,Auto-L5,2WD,Gasoline,midsize car,9.5,20.0,28.0,23.0,7,yes,FORD Fusion,2.5,4.0,Auto-6,2WD,Gasoline,midsize car,5,21.0,32.0,25.0,5,No
+411,FORD Fusion,2.3,4,Auto-L5,2WD,Gasoline,midsize car,9.5,20.0,28.0,23.0,7,yes,FORD Fusion,2.7,6.0,SemiAuto-6,4WD,Gasoline,midsize car,5,17.0,26.0,20.0,4,No
+412,FORD Fusion,3.0,6,Auto-L6,4WD,Gasoline,midsize car,7.0,17.0,25.0,20.0,6,yes,FORD Fusion,1.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,23.0,34.0,27.0,6,No
+413,FORD Fusion,3.0,6,Auto-L6,4WD,Gasoline,midsize car,7.0,17.0,25.0,20.0,6,yes,FORD Fusion,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,21.0,31.0,25.0,5,No
+414,FORD Fusion,3.0,6,Auto-L6,4WD,Gasoline,midsize car,7.0,17.0,25.0,20.0,6,yes,FORD Fusion,2.0,4.0,SemiAuto-6,4WD,Gasoline,midsize car,5,20.0,29.0,23.0,5,No
+415,FORD Fusion,3.0,6,Auto-L6,4WD,Gasoline,midsize car,7.0,17.0,25.0,20.0,6,yes,FORD Fusion,2.5,4.0,Auto-6,2WD,Gasoline,midsize car,5,21.0,32.0,25.0,5,No
+416,FORD Fusion,3.0,6,Auto-L6,4WD,Gasoline,midsize car,7.0,17.0,25.0,20.0,6,yes,FORD Fusion,2.7,6.0,SemiAuto-6,4WD,Gasoline,midsize car,5,17.0,26.0,20.0,4,No
+417,FORD Fusion,3.0,6,Auto-L6,2WD,Gasoline,midsize car,7.0,18.0,26.0,21.0,6,yes,FORD Fusion,1.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,23.0,34.0,27.0,6,No
+418,FORD Fusion,3.0,6,Auto-L6,2WD,Gasoline,midsize car,7.0,18.0,26.0,21.0,6,yes,FORD Fusion,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,21.0,31.0,25.0,5,No
+419,FORD Fusion,3.0,6,Auto-L6,2WD,Gasoline,midsize car,7.0,18.0,26.0,21.0,6,yes,FORD Fusion,2.0,4.0,SemiAuto-6,4WD,Gasoline,midsize car,5,20.0,29.0,23.0,5,No
+420,FORD Fusion,3.0,6,Auto-L6,2WD,Gasoline,midsize car,7.0,18.0,26.0,21.0,6,yes,FORD Fusion,2.5,4.0,Auto-6,2WD,Gasoline,midsize car,5,21.0,32.0,25.0,5,No
+421,FORD Fusion,3.0,6,Auto-L6,2WD,Gasoline,midsize car,7.0,18.0,26.0,21.0,6,yes,FORD Fusion,2.7,6.0,SemiAuto-6,4WD,Gasoline,midsize car,5,17.0,26.0,20.0,4,No
+422,GMC Acadia,3.6,6,Auto-L6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,GMC Acadia,2.5,4.0,Auto-6,2WD,Gasoline,standard SUV,3,21.0,26.0,23.0,5,No
+423,GMC Acadia,3.6,6,Auto-L6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,GMC Acadia,2.5,4.0,Auto-6,4WD,Gasoline,standard SUV,3,21.0,25.0,23.0,5,No
+424,GMC Acadia,3.6,6,Auto-L6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,GMC Acadia,3.6,6.0,Auto-6,2WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+425,GMC Acadia,3.6,6,Auto-L6,2WD,Gasoline,SUV,6.0,16.0,24.0,19.0,5,no,GMC Acadia,3.6,6.0,Auto-6,4WD,Gasoline,standard SUV,5,17.0,25.0,20.0,4,No
+426,GMC Acadia,3.6,6,Auto-L6,4WD,Gasoline,SUV,6.0,16.0,22.0,18.0,5,no,GMC Acadia,2.5,4.0,Auto-6,2WD,Gasoline,standard SUV,3,21.0,26.0,23.0,5,No
+427,GMC Acadia,3.6,6,Auto-L6,4WD,Gasoline,SUV,6.0,16.0,22.0,18.0,5,no,GMC Acadia,2.5,4.0,Auto-6,4WD,Gasoline,standard SUV,3,21.0,25.0,23.0,5,No
+428,GMC Acadia,3.6,6,Auto-L6,4WD,Gasoline,SUV,6.0,16.0,22.0,18.0,5,no,GMC Acadia,3.6,6.0,Auto-6,2WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+429,GMC Acadia,3.6,6,Auto-L6,4WD,Gasoline,SUV,6.0,16.0,22.0,18.0,5,no,GMC Acadia,3.6,6.0,Auto-6,4WD,Gasoline,standard SUV,5,17.0,25.0,20.0,4,No
+430,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+431,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+432,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+433,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+434,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+435,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+436,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+437,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+438,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+439,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+440,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+441,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+442,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+443,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+444,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+445,GMC Sierra 15,4.3,6,Auto-L4,2WD,Gasoline,pickup,6.0,15.0,20.0,17.0,4,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+446,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+447,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+448,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+449,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+450,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+451,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+452,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+453,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+454,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+455,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+456,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+457,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+458,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+459,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+460,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+461,GMC Sierra 15,4.3,6,Auto-L4,4WD,Gasoline,pickup,6.0,14.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+462,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+463,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+464,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+465,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+466,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+467,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+468,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+469,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+470,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+471,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+472,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+473,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+474,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+475,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+476,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+477,GMC Sierra 15,6.0,8,Auto-L4,2WD,Gasoline,pickup,6.0,13.0,18.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+478,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+479,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+480,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+481,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+482,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+483,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+484,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+485,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+486,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+487,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+488,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+489,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+490,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+491,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+492,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+493,GMC Sierra 15,6.2,8,Auto-L6,2WD,Gasoline,pickup,6.0,12.0,19.0,15.0,3,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+494,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16.0,23.0,19.0,3,No
+495,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15.0,20.0,17.0,3,No
+496,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+497,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15.0,19.0,17.0,3,No
+498,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18.0,24.0,20.0,4,No
+499,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16.0,22.0,18.0,3,No
+500,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16.0,21.0,18.0,3,No
+501,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+502,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15.0,21.0,17.0,3,No
+503,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15.0,20.0,17.0,3,No
+504,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Ethanol,pickup,5,12.0,16.0,14.0,4,No
+505,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Ethanol,pickup,5,12.0,15.0,13.0,3,No
+506,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Ethanol,pickup,3,12.0,17.0,14.0,3,No
+507,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,4.3,6.0,Auto-6,2WD,Gas,pickup,5,18.0,24.0,20.0,4,No
+508,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,4.3,6.0,Auto-6,4WD,Gas,pickup,5,17.0,22.0,19.0,3,No
+509,GMC Sierra 15,6.2,8,Auto-L6,4WD,Gasoline,pickup,6.0,12.0,18.0,14.0,2,no,GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gas,pickup,3,16.0,23.0,19.0,3,No
+510,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16.0,23.0,19.0,3,No
+511,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,16.0,22.0,18.0,3,No
+512,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14.0,23.0,17.0,3,No
+513,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+514,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Ethanol,standard SUV,3,12.0,17.0,14.0,3,No
+515,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Ethanol,standard SUV,3,11.0,16.0,13.0,3,No
+516,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gas,standard SUV,3,16.0,23.0,19.0,3,No
+517,GMC Yukon 1500,6.0,8,Auto-L4,2WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gas,standard SUV,3,16.0,22.0,18.0,3,No
+518,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16.0,23.0,19.0,3,No
+519,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,16.0,22.0,18.0,3,No
+520,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14.0,23.0,17.0,3,No
+521,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+522,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Ethanol,standard SUV,3,12.0,17.0,14.0,3,No
+523,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Ethanol,standard SUV,3,11.0,16.0,13.0,3,No
+524,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gas,standard SUV,3,16.0,23.0,19.0,3,No
+525,GMC Yukon 1500,6.2,8,Auto-L6,2WD,Gasoline,SUV,6.0,12.0,19.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gas,standard SUV,3,16.0,22.0,18.0,3,No
+526,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16.0,23.0,19.0,3,No
+527,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,16.0,22.0,18.0,3,No
+528,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14.0,23.0,17.0,3,No
+529,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+530,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Ethanol,standard SUV,3,12.0,17.0,14.0,3,No
+531,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Ethanol,standard SUV,3,11.0,16.0,13.0,3,No
+532,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gas,standard SUV,3,16.0,23.0,19.0,3,No
+533,GMC Yukon 1500,6.2,8,Auto-L6,4WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gas,standard SUV,3,16.0,22.0,18.0,3,No
+534,HONDA Fit,1.5,4,Auto-S5,2WD,Gasoline,station wagon,6.0,27.0,33.0,29.0,8,yes,HONDA Fit,1.5,4.0,CVT,2WD,Gasoline,station wagon,7,33.0,40.0,36.0,8,Yes
+535,HONDA Fit,1.5,4,Auto-S5,2WD,Gasoline,station wagon,6.0,27.0,33.0,29.0,8,yes,HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29.0,36.0,31.0,7,Yes
+536,HONDA Fit,1.5,4,Auto-S5,2WD,Gasoline,station wagon,6.0,27.0,33.0,29.0,8,yes,HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29.0,36.0,31.0,7,Yes
+537,HONDA Fit,1.5,4,Auto-S5,2WD,Gasoline,station wagon,6.0,27.0,33.0,29.0,8,yes,HONDA Fit,1.5,4.0,SCV-7,2WD,Gasoline,station wagon,7,31.0,36.0,33.0,8,Yes
+538,HONDA Fit,1.5,4,Auto-L5,2WD,Gasoline,station wagon,6.0,27.0,34.0,30.0,8,yes,HONDA Fit,1.5,4.0,CVT,2WD,Gasoline,station wagon,7,33.0,40.0,36.0,8,Yes
+539,HONDA Fit,1.5,4,Auto-L5,2WD,Gasoline,station wagon,6.0,27.0,34.0,30.0,8,yes,HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29.0,36.0,31.0,7,Yes
+540,HONDA Fit,1.5,4,Auto-L5,2WD,Gasoline,station wagon,6.0,27.0,34.0,30.0,8,yes,HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29.0,36.0,31.0,7,Yes
+541,HONDA Fit,1.5,4,Auto-L5,2WD,Gasoline,station wagon,6.0,27.0,34.0,30.0,8,yes,HONDA Fit,1.5,4.0,SCV-7,2WD,Gasoline,station wagon,7,31.0,36.0,33.0,8,Yes
+542,HONDA Fit,1.5,4,Man-5,2WD,Gasoline,station wagon,6.0,28.0,34.0,31.0,9,yes,HONDA Fit,1.5,4.0,CVT,2WD,Gasoline,station wagon,7,33.0,40.0,36.0,8,Yes
+543,HONDA Fit,1.5,4,Man-5,2WD,Gasoline,station wagon,6.0,28.0,34.0,31.0,9,yes,HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29.0,36.0,31.0,7,Yes
+544,HONDA Fit,1.5,4,Man-5,2WD,Gasoline,station wagon,6.0,28.0,34.0,31.0,9,yes,HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29.0,36.0,31.0,7,Yes
+545,HONDA Fit,1.5,4,Man-5,2WD,Gasoline,station wagon,6.0,28.0,34.0,31.0,9,yes,HONDA Fit,1.5,4.0,SCV-7,2WD,Gasoline,station wagon,7,31.0,36.0,33.0,8,Yes
+546,HONDA Ridgeline,3.5,6,Auto-L5,4WD,Gasoline,pickup,7.0,15.0,20.0,17.0,4,no,HONDA Ridgeline,3.5,6.0,Auto-6,2WD,Gasoline,pickup,3,19.0,26.0,22.0,4,No
+547,HONDA Ridgeline,3.5,6,Auto-L5,4WD,Gasoline,pickup,7.0,15.0,20.0,17.0,4,no,HONDA Ridgeline,3.5,6.0,Auto-6,4WD,Gasoline,pickup,3,18.0,25.0,21.0,4,No
+548,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,9.5,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,1.4,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,32.0,40.0,35.0,8,Yes
+549,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,9.5,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,1.6,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,26.0,33.0,29.0,6,No
+550,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,9.5,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,1.6,4.0,Man-6,2WD,Gasoline,midsize car,3,22.0,30.0,25.0,5,No
+551,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,9.5,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,2.0,4.0,Man-6,2WD,Gasoline,midsize car,5,26.0,36.0,29.0,6,No
+552,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,9.5,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+553,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,9.5,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,28.0,37.0,32.0,7,Yes
+554,HYUNDAI Elantra,2.0,4,Man-5,2WD,Gasoline,midsize car,7.0,24.0,33.0,27.0,8,yes,HYUNDAI Elantra,1.4,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,32.0,40.0,35.0,8,Yes
+555,HYUNDAI Elantra,2.0,4,Man-5,2WD,Gasoline,midsize car,7.0,24.0,33.0,27.0,8,yes,HYUNDAI Elantra,1.6,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,26.0,33.0,29.0,6,No
+556,HYUNDAI Elantra,2.0,4,Man-5,2WD,Gasoline,midsize car,7.0,24.0,33.0,27.0,8,yes,HYUNDAI Elantra,1.6,4.0,Man-6,2WD,Gasoline,midsize car,3,22.0,30.0,25.0,5,No
+557,HYUNDAI Elantra,2.0,4,Man-5,2WD,Gasoline,midsize car,7.0,24.0,33.0,27.0,8,yes,HYUNDAI Elantra,2.0,4.0,Man-6,2WD,Gasoline,midsize car,5,26.0,36.0,29.0,6,No
+558,HYUNDAI Elantra,2.0,4,Man-5,2WD,Gasoline,midsize car,7.0,24.0,33.0,27.0,8,yes,HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+559,HYUNDAI Elantra,2.0,4,Man-5,2WD,Gasoline,midsize car,7.0,24.0,33.0,27.0,8,yes,HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,28.0,37.0,32.0,7,Yes
+560,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,7.0,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,1.4,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,32.0,40.0,35.0,8,Yes
+561,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,7.0,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,1.6,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,26.0,33.0,29.0,6,No
+562,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,7.0,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,1.6,4.0,Man-6,2WD,Gasoline,midsize car,3,22.0,30.0,25.0,5,No
+563,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,7.0,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,2.0,4.0,Man-6,2WD,Gasoline,midsize car,5,26.0,36.0,29.0,6,No
+564,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,7.0,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+565,HYUNDAI Elantra,2.0,4,Auto-L4,2WD,Gasoline,midsize car,7.0,25.0,33.0,28.0,8,yes,HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,28.0,37.0,32.0,7,Yes
+566,HYUNDAI Santa Fe,2.7,6,Man-5,2WD,Gasoline,SUV,7.0,17.0,24.0,20.0,6,yes,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,21.0,4,No
+567,HYUNDAI Santa Fe,2.7,6,Man-5,2WD,Gasoline,SUV,7.0,17.0,24.0,20.0,6,yes,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18.0,24.0,20.0,4,No
+568,HYUNDAI Santa Fe,2.7,6,Auto-L4,2WD,Gasoline,SUV,7.0,18.0,24.0,20.0,6,yes,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,21.0,4,No
+569,HYUNDAI Santa Fe,2.7,6,Auto-L4,2WD,Gasoline,SUV,7.0,18.0,24.0,20.0,6,yes,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18.0,24.0,20.0,4,No
+570,HYUNDAI Santa Fe,2.7,6,Auto-L4,4WD,Gasoline,SUV,7.0,17.0,23.0,19.0,5,no,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,21.0,4,No
+571,HYUNDAI Santa Fe,2.7,6,Auto-L4,4WD,Gasoline,SUV,7.0,17.0,23.0,19.0,5,no,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18.0,24.0,20.0,4,No
+572,HYUNDAI Santa Fe,2.7,6,Man-5,4WD,Gasoline,SUV,7.0,17.0,23.0,19.0,5,no,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,21.0,4,No
+573,HYUNDAI Santa Fe,2.7,6,Man-5,4WD,Gasoline,SUV,7.0,17.0,23.0,19.0,5,no,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18.0,24.0,20.0,4,No
+574,HYUNDAI Santa Fe,3.3,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,20.0,6,yes,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,21.0,4,No
+575,HYUNDAI Santa Fe,3.3,6,Auto-L5,2WD,Gasoline,SUV,7.0,17.0,24.0,20.0,6,yes,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18.0,24.0,20.0,4,No
+576,HYUNDAI Santa Fe,3.3,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,21.0,4,No
+577,HYUNDAI Santa Fe,3.3,6,Auto-L5,4WD,Gasoline,SUV,7.0,17.0,24.0,19.0,5,no,HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18.0,24.0,20.0,4,No
+578,HYUNDAI Sonata,2.4,4,Auto-L4,2WD,Gasoline,large car,7.0,21.0,30.0,24.0,7,yes,HYUNDAI Sonata,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,5,28.0,37.0,31.0,7,Yes
+579,HYUNDAI Sonata,2.4,4,Auto-L4,2WD,Gasoline,large car,7.0,21.0,30.0,24.0,7,yes,HYUNDAI Sonata,2.0,4.0,SemiAuto-8,2WD,Gasoline,large car,5,23.0,32.0,26.0,5,No
+580,HYUNDAI Sonata,2.4,4,Auto-L4,2WD,Gasoline,large car,7.0,21.0,30.0,24.0,7,yes,HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,25.0,35.0,28.0,6,No
+581,HYUNDAI Sonata,2.4,4,Auto-L4,2WD,Gasoline,large car,7.0,21.0,30.0,24.0,7,yes,HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,25.0,35.0,28.0,6,No
+582,HYUNDAI Sonata,2.4,4,Man-5,2WD,Gasoline,large car,7.0,21.0,31.0,25.0,7,yes,HYUNDAI Sonata,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,5,28.0,37.0,31.0,7,Yes
+583,HYUNDAI Sonata,2.4,4,Man-5,2WD,Gasoline,large car,7.0,21.0,31.0,25.0,7,yes,HYUNDAI Sonata,2.0,4.0,SemiAuto-8,2WD,Gasoline,large car,5,23.0,32.0,26.0,5,No
+584,HYUNDAI Sonata,2.4,4,Man-5,2WD,Gasoline,large car,7.0,21.0,31.0,25.0,7,yes,HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,25.0,35.0,28.0,6,No
+585,HYUNDAI Sonata,2.4,4,Man-5,2WD,Gasoline,large car,7.0,21.0,31.0,25.0,7,yes,HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,25.0,35.0,28.0,6,No
+586,HYUNDAI Sonata,3.3,6,Auto-L5,2WD,Gasoline,large car,7.0,19.0,28.0,22.0,6,yes,HYUNDAI Sonata,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,5,28.0,37.0,31.0,7,Yes
+587,HYUNDAI Sonata,3.3,6,Auto-L5,2WD,Gasoline,large car,7.0,19.0,28.0,22.0,6,yes,HYUNDAI Sonata,2.0,4.0,SemiAuto-8,2WD,Gasoline,large car,5,23.0,32.0,26.0,5,No
+588,HYUNDAI Sonata,3.3,6,Auto-L5,2WD,Gasoline,large car,7.0,19.0,28.0,22.0,6,yes,HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,25.0,35.0,28.0,6,No
+589,HYUNDAI Sonata,3.3,6,Auto-L5,2WD,Gasoline,large car,7.0,19.0,28.0,22.0,6,yes,HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,25.0,35.0,28.0,6,No
+590,JEEP Compass,2.4,4,Man-5,2WD,Gasoline,SUV,7.0,23.0,28.0,25.0,7,yes,JEEP Compass,2.4,4.0,Auto-6,2WD,Gasoline,small SUV,7,22.0,31.0,25.0,5,No
+591,JEEP Compass,2.4,4,Man-5,2WD,Gasoline,SUV,7.0,23.0,28.0,25.0,7,yes,JEEP Compass,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,7,22.0,30.0,25.0,5,No
+592,JEEP Compass,2.4,4,Man-5,2WD,Gasoline,SUV,7.0,23.0,28.0,25.0,7,yes,JEEP Compass,2.4,4.0,Man-6,2WD,Gasoline,small SUV,3,23.0,32.0,26.0,5,No
+593,JEEP Compass,2.4,4,Man-5,2WD,Gasoline,SUV,7.0,23.0,28.0,25.0,7,yes,JEEP Compass,2.4,4.0,Man-6,4WD,Gasoline,small SUV,3,22.0,31.0,25.0,5,No
+594,JEEP Compass,2.4,4,Auto-AV,4WD,Gasoline,SUV,7.0,21.0,24.0,22.0,6,yes,JEEP Compass,2.4,4.0,Auto-6,2WD,Gasoline,small SUV,7,22.0,31.0,25.0,5,No
+595,JEEP Compass,2.4,4,Auto-AV,4WD,Gasoline,SUV,7.0,21.0,24.0,22.0,6,yes,JEEP Compass,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,7,22.0,30.0,25.0,5,No
+596,JEEP Compass,2.4,4,Auto-AV,4WD,Gasoline,SUV,7.0,21.0,24.0,22.0,6,yes,JEEP Compass,2.4,4.0,Man-6,2WD,Gasoline,small SUV,3,23.0,32.0,26.0,5,No
+597,JEEP Compass,2.4,4,Auto-AV,4WD,Gasoline,SUV,7.0,21.0,24.0,22.0,6,yes,JEEP Compass,2.4,4.0,Man-6,4WD,Gasoline,small SUV,3,22.0,31.0,25.0,5,No
+598,JEEP Compass,2.4,4,Man-5,4WD,Gasoline,SUV,7.0,22.0,27.0,24.0,7,yes,JEEP Compass,2.4,4.0,Auto-6,2WD,Gasoline,small SUV,7,22.0,31.0,25.0,5,No
+599,JEEP Compass,2.4,4,Man-5,4WD,Gasoline,SUV,7.0,22.0,27.0,24.0,7,yes,JEEP Compass,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,7,22.0,30.0,25.0,5,No
+600,JEEP Compass,2.4,4,Man-5,4WD,Gasoline,SUV,7.0,22.0,27.0,24.0,7,yes,JEEP Compass,2.4,4.0,Man-6,2WD,Gasoline,small SUV,3,23.0,32.0,26.0,5,No
+601,JEEP Compass,2.4,4,Man-5,4WD,Gasoline,SUV,7.0,22.0,27.0,24.0,7,yes,JEEP Compass,2.4,4.0,Man-6,4WD,Gasoline,small SUV,3,22.0,31.0,25.0,5,No
+602,JEEP Grand Cherokee,3.7,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+603,JEEP Grand Cherokee,3.7,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+604,JEEP Grand Cherokee,3.7,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+605,JEEP Grand Cherokee,3.7,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,19.0,17.0,4,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+606,JEEP Grand Cherokee,3.7,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,19.0,17.0,4,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+607,JEEP Grand Cherokee,3.7,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,19.0,17.0,4,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+608,JEEP Grand Cherokee,4.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,14.0,19.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+609,JEEP Grand Cherokee,4.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,14.0,19.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+610,JEEP Grand Cherokee,4.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,14.0,19.0,15.0,3,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+611,JEEP Grand Cherokee,4.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,14.0,19.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+612,JEEP Grand Cherokee,4.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,14.0,19.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+613,JEEP Grand Cherokee,4.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,14.0,19.0,15.0,3,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+614,JEEP Grand Cherokee,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+615,JEEP Grand Cherokee,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+616,JEEP Grand Cherokee,5.7,8,Auto-L5,2WD,Gasoline,SUV,6.0,13.0,19.0,15.0,3,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+617,JEEP Grand Cherokee,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+618,JEEP Grand Cherokee,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+619,JEEP Grand Cherokee,5.7,8,Auto-L5,4WD,Gasoline,SUV,6.0,13.0,18.0,15.0,3,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+620,JEEP Grand Cherokee,6.1,8,Auto-L5,4WD,Gasoline,SUV,6.0,11.0,14.0,12.0,0,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19.0,26.0,21.0,4,No
+621,JEEP Grand Cherokee,6.1,8,Auto-L5,4WD,Gasoline,SUV,6.0,11.0,14.0,12.0,0,no,JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18.0,25.0,21.0,4,No
+622,JEEP Grand Cherokee,6.1,8,Auto-L5,4WD,Gasoline,SUV,6.0,11.0,14.0,12.0,0,no,JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14.0,22.0,17.0,3,No
+623,KIA Optima,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,3,28.0,37.0,31.0,7,Yes
+624,KIA Optima,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,2.0,4.0,SemiAuto-6,2WD,Gasoline,large car,3,22.0,31.0,25.0,5,No
+625,KIA Optima,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,24.0,34.0,28.0,6,No
+626,KIA Optima,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,24.0,34.0,28.0,6,No
+627,KIA Optima,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,3,28.0,37.0,31.0,7,Yes
+628,KIA Optima,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,2.0,4.0,SemiAuto-6,2WD,Gasoline,large car,3,22.0,31.0,25.0,5,No
+629,KIA Optima,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,24.0,34.0,28.0,6,No
+630,KIA Optima,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,KIA Optima,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,24.0,34.0,28.0,6,No
+631,KIA Rio,1.6,4,Auto-L4,2WD,Gasoline,small car,7.0,25.0,35.0,29.0,8,yes,KIA Rio,1.6,4.0,Man-6,2WD,Gasoline,small car,3,29.0,37.0,32.0,7,Yes
+632,KIA Rio,1.6,4,Auto-L4,2WD,Gasoline,small car,7.0,25.0,35.0,29.0,8,yes,KIA Rio,1.6,4.0,SemiAuto-6,2WD,Gasoline,small car,3,28.0,37.0,32.0,7,Yes
+633,KIA Rio,1.6,4,Man-5,2WD,Gasoline,small car,7.0,27.0,32.0,29.0,8,yes,KIA Rio,1.6,4.0,Man-6,2WD,Gasoline,small car,3,29.0,37.0,32.0,7,Yes
+634,KIA Rio,1.6,4,Man-5,2WD,Gasoline,small car,7.0,27.0,32.0,29.0,8,yes,KIA Rio,1.6,4.0,SemiAuto-6,2WD,Gasoline,small car,3,28.0,37.0,32.0,7,Yes
+635,KIA Sedona,3.8,6,Auto-L5,2WD,Gasoline,minivan,7.0,16.0,23.0,18.0,5,no,KIA Sedona,3.3,6.0,SemiAuto-6,2WD,Gasoline,minivan,3,18.0,24.0,20.0,4,No
+636,KIA Sorento,3.8,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,21.0,17.0,4,no,KIA Sorento,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20.0,27.0,23.0,5,No
+637,KIA Sorento,3.8,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,21.0,17.0,4,no,KIA Sorento,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19.0,25.0,22.0,4,No
+638,KIA Sorento,3.8,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,21.0,17.0,4,no,KIA Sorento,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,21.0,28.0,24.0,5,No
+639,KIA Sorento,3.8,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,21.0,17.0,4,no,KIA Sorento,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,22.0,4,No
+640,KIA Sorento,3.8,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,21.0,17.0,4,no,KIA Sorento,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,20.0,4,No
+641,KIA Sorento,3.8,6,Auto-L5,2WD,Gasoline,SUV,6.0,15.0,21.0,17.0,4,no,KIA Sorento,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,17.0,23.0,19.0,3,No
+642,KIA Sorento,3.8,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,KIA Sorento,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20.0,27.0,23.0,5,No
+643,KIA Sorento,3.8,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,KIA Sorento,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19.0,25.0,22.0,4,No
+644,KIA Sorento,3.8,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,KIA Sorento,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,21.0,28.0,24.0,5,No
+645,KIA Sorento,3.8,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,KIA Sorento,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,22.0,4,No
+646,KIA Sorento,3.8,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,KIA Sorento,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18.0,25.0,20.0,4,No
+647,KIA Sorento,3.8,6,Auto-L5,4WD,Gasoline,SUV,6.0,15.0,20.0,17.0,4,no,KIA Sorento,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,17.0,23.0,19.0,3,No
+648,KIA Sportage,2.0,4,Auto-L4,2WD,Gasoline,SUV,7.0,19.0,25.0,21.0,6,yes,KIA Sportage,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,21.0,26.0,23.0,5,No
+649,KIA Sportage,2.0,4,Auto-L4,2WD,Gasoline,SUV,7.0,19.0,25.0,21.0,6,yes,KIA Sportage,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,23.0,21.0,4,No
+650,KIA Sportage,2.0,4,Auto-L4,2WD,Gasoline,SUV,7.0,19.0,25.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,22.0,29.0,25.0,5,No
+651,KIA Sportage,2.0,4,Auto-L4,2WD,Gasoline,SUV,7.0,19.0,25.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+652,KIA Sportage,2.0,4,Auto-L4,2WD,Gasoline,SUV,7.0,19.0,25.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21.0,25.0,23.0,5,No
+653,KIA Sportage,2.0,4,Auto-L4,2WD,Gasoline,SUV,7.0,19.0,25.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,23.0,5,No
+654,KIA Sportage,2.0,4,Man-5,2WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,KIA Sportage,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,21.0,26.0,23.0,5,No
+655,KIA Sportage,2.0,4,Man-5,2WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,KIA Sportage,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,23.0,21.0,4,No
+656,KIA Sportage,2.0,4,Man-5,2WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,22.0,29.0,25.0,5,No
+657,KIA Sportage,2.0,4,Man-5,2WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+658,KIA Sportage,2.0,4,Man-5,2WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21.0,25.0,23.0,5,No
+659,KIA Sportage,2.0,4,Man-5,2WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,23.0,5,No
+660,KIA Sportage,2.0,4,Man-5,4WD,Gasoline,SUV,7.0,19.0,24.0,21.0,6,yes,KIA Sportage,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,21.0,26.0,23.0,5,No
+661,KIA Sportage,2.0,4,Man-5,4WD,Gasoline,SUV,7.0,19.0,24.0,21.0,6,yes,KIA Sportage,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,23.0,21.0,4,No
+662,KIA Sportage,2.0,4,Man-5,4WD,Gasoline,SUV,7.0,19.0,24.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,22.0,29.0,25.0,5,No
+663,KIA Sportage,2.0,4,Man-5,4WD,Gasoline,SUV,7.0,19.0,24.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+664,KIA Sportage,2.0,4,Man-5,4WD,Gasoline,SUV,7.0,19.0,24.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21.0,25.0,23.0,5,No
+665,KIA Sportage,2.0,4,Man-5,4WD,Gasoline,SUV,7.0,19.0,24.0,21.0,6,yes,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,23.0,5,No
+666,KIA Sportage,2.7,6,Auto-L4,2WD,Gasoline,SUV,6.0,17.0,23.0,20.0,6,no,KIA Sportage,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,21.0,26.0,23.0,5,No
+667,KIA Sportage,2.7,6,Auto-L4,2WD,Gasoline,SUV,6.0,17.0,23.0,20.0,6,no,KIA Sportage,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,23.0,21.0,4,No
+668,KIA Sportage,2.7,6,Auto-L4,2WD,Gasoline,SUV,6.0,17.0,23.0,20.0,6,no,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,22.0,29.0,25.0,5,No
+669,KIA Sportage,2.7,6,Auto-L4,2WD,Gasoline,SUV,6.0,17.0,23.0,20.0,6,no,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+670,KIA Sportage,2.7,6,Auto-L4,2WD,Gasoline,SUV,6.0,17.0,23.0,20.0,6,no,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21.0,25.0,23.0,5,No
+671,KIA Sportage,2.7,6,Auto-L4,2WD,Gasoline,SUV,6.0,17.0,23.0,20.0,6,no,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,23.0,5,No
+672,KIA Sportage,2.7,6,Auto-L4,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no,KIA Sportage,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,21.0,26.0,23.0,5,No
+673,KIA Sportage,2.7,6,Auto-L4,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no,KIA Sportage,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,23.0,21.0,4,No
+674,KIA Sportage,2.7,6,Auto-L4,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,22.0,29.0,25.0,5,No
+675,KIA Sportage,2.7,6,Auto-L4,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no,KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,22.0,29.0,25.0,5,No
+676,KIA Sportage,2.7,6,Auto-L4,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21.0,25.0,23.0,5,No
+677,KIA Sportage,2.7,6,Auto-L4,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no,KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21.0,25.0,23.0,5,No
+678,LEXUS LX 570,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,12.0,18.0,14.0,2,no,LEXUS LX 570,5.7,8.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,13.0,18.0,15.0,2,No
+679,MASERATI Granturismo,4.2,8,Auto-6,2WD,Gasoline,small car,6.0,14.0,21.0,17.0,4,no,MASERATI Granturismo,4.7,8.0,Auto-6,2WD,Gasoline,small car,1,13.0,21.0,16.0,2,No
+680,MAZDA 3,2.0,4,Auto-S4,2WD,Gasoline,small car,9.5,23.0,31.0,26.0,8,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,27.0,37.0,31.0,7,Yes
+681,MAZDA 3,2.0,4,Auto-S4,2WD,Gasoline,small car,9.5,23.0,31.0,26.0,8,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,small car,7,28.0,38.0,31.0,7,Yes
+682,MAZDA 3,2.0,4,Auto-S4,2WD,Gasoline,small car,9.5,23.0,31.0,26.0,8,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+683,MAZDA 3,2.0,4,Auto-S4,2WD,Gasoline,small car,9.5,23.0,31.0,26.0,8,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,28.0,37.0,31.0,7,Yes
+684,MAZDA 3,2.0,4,Auto-S4,2WD,Gasoline,small car,9.5,23.0,31.0,26.0,8,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,26.0,35.0,30.0,7,Yes
+685,MAZDA 3,2.0,4,Auto-S4,2WD,Gasoline,small car,9.5,23.0,31.0,26.0,8,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,7,27.0,36.0,30.0,7,Yes
+686,MAZDA 3,2.0,4,Man-5,2WD,Gasoline,small car,9.5,24.0,32.0,27.0,8,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,27.0,37.0,31.0,7,Yes
+687,MAZDA 3,2.0,4,Man-5,2WD,Gasoline,small car,9.5,24.0,32.0,27.0,8,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,small car,7,28.0,38.0,31.0,7,Yes
+688,MAZDA 3,2.0,4,Man-5,2WD,Gasoline,small car,9.5,24.0,32.0,27.0,8,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+689,MAZDA 3,2.0,4,Man-5,2WD,Gasoline,small car,9.5,24.0,32.0,27.0,8,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,28.0,37.0,31.0,7,Yes
+690,MAZDA 3,2.0,4,Man-5,2WD,Gasoline,small car,9.5,24.0,32.0,27.0,8,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,26.0,35.0,30.0,7,Yes
+691,MAZDA 3,2.0,4,Man-5,2WD,Gasoline,small car,9.5,24.0,32.0,27.0,8,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,7,27.0,36.0,30.0,7,Yes
+692,MAZDA 3,2.3,4,Auto-S5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,27.0,37.0,31.0,7,Yes
+693,MAZDA 3,2.3,4,Auto-S5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,small car,7,28.0,38.0,31.0,7,Yes
+694,MAZDA 3,2.3,4,Auto-S5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+695,MAZDA 3,2.3,4,Auto-S5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,28.0,37.0,31.0,7,Yes
+696,MAZDA 3,2.3,4,Auto-S5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,26.0,35.0,30.0,7,Yes
+697,MAZDA 3,2.3,4,Auto-S5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,7,27.0,36.0,30.0,7,Yes
+698,MAZDA 3,2.3,4,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,25.0,7,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,27.0,37.0,31.0,7,Yes
+699,MAZDA 3,2.3,4,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,25.0,7,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,small car,7,28.0,38.0,31.0,7,Yes
+700,MAZDA 3,2.3,4,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,25.0,7,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+701,MAZDA 3,2.3,4,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,25.0,7,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,28.0,37.0,31.0,7,Yes
+702,MAZDA 3,2.3,4,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,25.0,7,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,26.0,35.0,30.0,7,Yes
+703,MAZDA 3,2.3,4,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,25.0,7,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,7,27.0,36.0,30.0,7,Yes
+704,MAZDA 3,2.3,4,Man-6,2WD,Gasoline,midsize car,7.0,18.0,26.0,20.0,6,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,27.0,37.0,31.0,7,Yes
+705,MAZDA 3,2.3,4,Man-6,2WD,Gasoline,midsize car,7.0,18.0,26.0,20.0,6,yes,MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,small car,7,28.0,38.0,31.0,7,Yes
+706,MAZDA 3,2.3,4,Man-6,2WD,Gasoline,midsize car,7.0,18.0,26.0,20.0,6,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28.0,37.0,32.0,7,Yes
+707,MAZDA 3,2.3,4,Man-6,2WD,Gasoline,midsize car,7.0,18.0,26.0,20.0,6,yes,MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,28.0,37.0,31.0,7,Yes
+708,MAZDA 3,2.3,4,Man-6,2WD,Gasoline,midsize car,7.0,18.0,26.0,20.0,6,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,26.0,35.0,30.0,7,Yes
+709,MAZDA 3,2.3,4,Man-6,2WD,Gasoline,midsize car,7.0,18.0,26.0,20.0,6,yes,MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,7,27.0,36.0,30.0,7,Yes
+710,MAZDA CX-9,3.7,6,Auto-S6,2WD,Gasoline,SUV,7.0,16.0,22.0,18.0,5,no,MAZDA CX-9,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,22.0,28.0,24.0,5,No
+711,MAZDA CX-9,3.7,6,Auto-S6,2WD,Gasoline,SUV,7.0,16.0,22.0,18.0,5,no,MAZDA CX-9,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,26.0,23.0,5,No
+712,MAZDA CX-9,3.7,6,Auto-S6,4WD,Gasoline,SUV,7.0,15.0,21.0,17.0,4,no,MAZDA CX-9,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,22.0,28.0,24.0,5,No
+713,MAZDA CX-9,3.7,6,Auto-S6,4WD,Gasoline,SUV,7.0,15.0,21.0,17.0,4,no,MAZDA CX-9,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20.0,26.0,23.0,5,No
+714,MERCEDES-BENZ SL550,5.5,8,Auto-L7,2WD,Gasoline,small car,7.0,14.0,21.0,16.0,4,no,MERCEDES-BENZ SL550,4.7,8.0,Auto-9,2WD,Gasoline,small car,3,17.0,25.0,20.0,4,No
+715,NISSAN Armada,5.6,8,Auto-L5,2WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,NISSAN Armada,5.6,8.0,SemiAuto-7,2WD,Gasoline,standard SUV,3,14.0,19.0,16.0,2,No
+716,NISSAN Armada,5.6,8,Auto-L5,2WD,Gasoline,SUV,6.0,12.0,18.0,14.0,2,no,NISSAN Armada,5.6,8.0,SemiAuto-7,4WD,Gasoline,standard SUV,3,13.0,18.0,15.0,2,No
+717,NISSAN Armada,5.6,8,Auto-L5,4WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,NISSAN Armada,5.6,8.0,SemiAuto-7,2WD,Gasoline,standard SUV,3,14.0,19.0,16.0,2,No
+718,NISSAN Armada,5.6,8,Auto-L5,4WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no,NISSAN Armada,5.6,8.0,SemiAuto-7,4WD,Gasoline,standard SUV,3,13.0,18.0,15.0,2,No
+719,NISSAN Versa,1.8,4,Auto-L4,2WD,Gasoline,midsize car,7.0,24.0,32.0,27.0,8,yes,NISSAN Versa,1.6,4.0,Auto-4,2WD,Gasoline,small car,3,26.0,35.0,29.0,6,No
+720,NISSAN Versa,1.8,4,Auto-L4,2WD,Gasoline,midsize car,7.0,24.0,32.0,27.0,8,yes,NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,3,31.0,39.0,34.0,8,Yes
+721,NISSAN Versa,1.8,4,Auto-L4,2WD,Gasoline,midsize car,7.0,24.0,32.0,27.0,8,yes,NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,5,31.0,39.0,34.0,8,Yes
+722,NISSAN Versa,1.8,4,Auto-L4,2WD,Gasoline,midsize car,7.0,24.0,32.0,27.0,8,yes,NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,3,27.0,36.0,30.0,7,Yes
+723,NISSAN Versa,1.8,4,Auto-L4,2WD,Gasoline,midsize car,7.0,24.0,32.0,27.0,8,yes,NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,5,27.0,36.0,30.0,7,Yes
+724,NISSAN Versa,1.8,4,Man-6,2WD,Gasoline,midsize car,7.0,26.0,31.0,28.0,8,yes,NISSAN Versa,1.6,4.0,Auto-4,2WD,Gasoline,small car,3,26.0,35.0,29.0,6,No
+725,NISSAN Versa,1.8,4,Man-6,2WD,Gasoline,midsize car,7.0,26.0,31.0,28.0,8,yes,NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,3,31.0,39.0,34.0,8,Yes
+726,NISSAN Versa,1.8,4,Man-6,2WD,Gasoline,midsize car,7.0,26.0,31.0,28.0,8,yes,NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,5,31.0,39.0,34.0,8,Yes
+727,NISSAN Versa,1.8,4,Man-6,2WD,Gasoline,midsize car,7.0,26.0,31.0,28.0,8,yes,NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,3,27.0,36.0,30.0,7,Yes
+728,NISSAN Versa,1.8,4,Man-6,2WD,Gasoline,midsize car,7.0,26.0,31.0,28.0,8,yes,NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,5,27.0,36.0,30.0,7,Yes
+729,NISSAN Versa,1.8,4,Auto-AV,2WD,Gasoline,midsize car,7.0,27.0,33.0,29.0,8,yes,NISSAN Versa,1.6,4.0,Auto-4,2WD,Gasoline,small car,3,26.0,35.0,29.0,6,No
+730,NISSAN Versa,1.8,4,Auto-AV,2WD,Gasoline,midsize car,7.0,27.0,33.0,29.0,8,yes,NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,3,31.0,39.0,34.0,8,Yes
+731,NISSAN Versa,1.8,4,Auto-AV,2WD,Gasoline,midsize car,7.0,27.0,33.0,29.0,8,yes,NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,5,31.0,39.0,34.0,8,Yes
+732,NISSAN Versa,1.8,4,Auto-AV,2WD,Gasoline,midsize car,7.0,27.0,33.0,29.0,8,yes,NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,3,27.0,36.0,30.0,7,Yes
+733,NISSAN Versa,1.8,4,Auto-AV,2WD,Gasoline,midsize car,7.0,27.0,33.0,29.0,8,yes,NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,5,27.0,36.0,30.0,7,Yes
+734,PORSCHE 911 Turbo,3.6,6,Auto-L5,4WD,Gasoline,small car,6.0,15.0,23.0,18.0,5,no,PORSCHE 911 Turbo,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19.0,24.0,21.0,4,No
+735,PORSCHE 911 Turbo,3.6,6,Man-6,4WD,Gasoline,small car,6.0,16.0,23.0,18.0,5,no,PORSCHE 911 Turbo,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19.0,24.0,21.0,4,No
+736,PORSCHE 911 Turbo Cabriolet,3.6,6,Auto-L5,4WD,Gasoline,small car,6.0,15.0,23.0,18.0,5,no,PORSCHE 911 Turbo Cabriolet,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19.0,24.0,21.0,4,No
+737,PORSCHE 911 Turbo Cabriolet,3.6,6,Man-6,4WD,Gasoline,small car,6.0,15.0,24.0,18.0,5,no,PORSCHE 911 Turbo Cabriolet,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19.0,24.0,21.0,4,No
+738,PORSCHE Boxster,2.7,6,Auto-L5,2WD,Gasoline,small car,7.0,19.0,26.0,21.0,6,yes,PORSCHE Boxster,2.0,4.0,AMS-7,2WD,Gasoline,small car,3,22.0,29.0,25.0,5,No
+739,PORSCHE Boxster,2.7,6,Auto-L5,2WD,Gasoline,small car,7.0,19.0,26.0,21.0,6,yes,PORSCHE Boxster,2.0,4.0,Man-6,2WD,Gasoline,small car,3,21.0,28.0,24.0,5,No
+740,PORSCHE Boxster,2.7,6,Man-6,2WD,Gasoline,small car,7.0,19.0,28.0,22.0,6,yes,PORSCHE Boxster,2.0,4.0,AMS-7,2WD,Gasoline,small car,3,22.0,29.0,25.0,5,No
+741,PORSCHE Boxster,2.7,6,Man-6,2WD,Gasoline,small car,7.0,19.0,28.0,22.0,6,yes,PORSCHE Boxster,2.0,4.0,Man-6,2WD,Gasoline,small car,3,21.0,28.0,24.0,5,No
+742,PORSCHE Boxster,2.7,6,Man-5,2WD,Gasoline,small car,7.0,20.0,29.0,23.0,7,yes,PORSCHE Boxster,2.0,4.0,AMS-7,2WD,Gasoline,small car,3,22.0,29.0,25.0,5,No
+743,PORSCHE Boxster,2.7,6,Man-5,2WD,Gasoline,small car,7.0,20.0,29.0,23.0,7,yes,PORSCHE Boxster,2.0,4.0,Man-6,2WD,Gasoline,small car,3,21.0,28.0,24.0,5,No
+744,PORSCHE Boxster S,3.4,6,Auto-L5,2WD,Gasoline,small car,7.0,18.0,25.0,21.0,6,yes,PORSCHE Boxster S,2.5,4.0,AMS-7,2WD,Gasoline,small car,3,21.0,28.0,24.0,5,No
+745,PORSCHE Boxster S,3.4,6,Auto-L5,2WD,Gasoline,small car,7.0,18.0,25.0,21.0,6,yes,PORSCHE Boxster S,2.5,4.0,Man-6,2WD,Gasoline,small car,3,20.0,26.0,22.0,4,No
+746,PORSCHE Boxster S,3.4,6,Man-6,2WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes,PORSCHE Boxster S,2.5,4.0,AMS-7,2WD,Gasoline,small car,3,21.0,28.0,24.0,5,No
+747,PORSCHE Boxster S,3.4,6,Man-6,2WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes,PORSCHE Boxster S,2.5,4.0,Man-6,2WD,Gasoline,small car,3,20.0,26.0,22.0,4,No
+748,PORSCHE Cayenne S,4.8,8,Auto-L6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no,PORSCHE Cayenne S,3.6,6.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,17.0,24.0,20.0,4,No
+749,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,9.5,20.0,26.0,22.0,6,yes,SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23.0,27.0,25.0,5,No
+750,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,9.5,20.0,26.0,22.0,6,yes,SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22.0,28.0,24.0,5,No
+751,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,9.5,20.0,26.0,22.0,6,yes,SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26.0,32.0,28.0,6,No
+752,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,9.5,20.0,27.0,22.0,6,yes,SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23.0,27.0,25.0,5,No
+753,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,9.5,20.0,27.0,22.0,6,yes,SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22.0,28.0,24.0,5,No
+754,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,9.5,20.0,27.0,22.0,6,yes,SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26.0,32.0,28.0,6,No
+755,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,6.0,18.0,23.0,20.0,6,no,SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23.0,27.0,25.0,5,No
+756,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,6.0,18.0,23.0,20.0,6,no,SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22.0,28.0,24.0,5,No
+757,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,6.0,18.0,23.0,20.0,6,no,SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26.0,32.0,28.0,6,No
+758,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,19.0,25.0,21.0,6,no,SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23.0,27.0,25.0,5,No
+759,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,19.0,25.0,21.0,6,no,SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22.0,28.0,24.0,5,No
+760,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,19.0,25.0,21.0,6,no,SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26.0,32.0,28.0,6,No
+761,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,6.0,20.0,26.0,22.0,6,no,SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23.0,27.0,25.0,5,No
+762,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,6.0,20.0,26.0,22.0,6,no,SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22.0,28.0,24.0,5,No
+763,SUBARU Forester,2.5,4,Auto-L4,4WD,Gasoline,SUV,6.0,20.0,26.0,22.0,6,no,SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26.0,32.0,28.0,6,No
+764,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,20.0,27.0,22.0,6,no,SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23.0,27.0,25.0,5,No
+765,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,20.0,27.0,22.0,6,no,SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22.0,28.0,24.0,5,No
+766,SUBARU Forester,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,20.0,27.0,22.0,6,no,SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26.0,32.0,28.0,6,No
+767,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,midsize car,7,24.0,32.0,27.0,6,No
+768,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,station wagon,7,24.0,31.0,26.0,5,No
+769,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,7,28.0,38.0,32.0,7,Yes
+770,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,7,28.0,37.0,31.0,7,Yes
+771,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,25.0,22.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,midsize car,7,24.0,32.0,27.0,6,No
+772,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,25.0,22.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,station wagon,7,24.0,31.0,26.0,5,No
+773,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,25.0,22.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,7,28.0,38.0,32.0,7,Yes
+774,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,25.0,22.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,7,28.0,37.0,31.0,7,Yes
+775,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,midsize car,7,24.0,32.0,27.0,6,No
+776,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,station wagon,7,24.0,31.0,26.0,5,No
+777,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,7,28.0,38.0,32.0,7,Yes
+778,SUBARU Impreza,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,7,28.0,37.0,31.0,7,Yes
+779,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,midsize car,7,24.0,32.0,27.0,6,No
+780,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,station wagon,7,24.0,31.0,26.0,5,No
+781,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,7,28.0,38.0,32.0,7,Yes
+782,SUBARU Impreza,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,7,28.0,37.0,31.0,7,Yes
+783,SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,9.5,20.0,27.0,22.0,6,yes,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+784,SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,9.5,20.0,27.0,22.0,6,yes,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+785,SUBARU Legacy,2.5,4,Auto-S4,4WD,Gasoline,small car,9.5,20.0,27.0,22.0,6,yes,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+786,SUBARU Legacy,2.5,4,Auto-S4,4WD,Gasoline,small car,9.5,20.0,27.0,22.0,6,yes,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+787,SUBARU Legacy,2.5,4,Man-6,4WD,Gasoline,small car,6.0,17.0,24.0,20.0,6,no,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+788,SUBARU Legacy,2.5,4,Man-6,4WD,Gasoline,small car,6.0,17.0,24.0,20.0,6,no,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+789,SUBARU Legacy,2.5,4,Auto-S5,4WD,Gasoline,small car,6.0,18.0,24.0,20.0,6,no,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+790,SUBARU Legacy,2.5,4,Auto-S5,4WD,Gasoline,small car,6.0,18.0,24.0,20.0,6,no,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+791,SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+792,SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+793,SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+794,SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+795,SUBARU Legacy,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+796,SUBARU Legacy,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+797,SUBARU Legacy,3.0,6,Auto-S5,4WD,Gasoline,small car,6.0,17.0,24.0,20.0,6,no,SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25.0,34.0,29.0,6,No
+798,SUBARU Legacy,3.0,6,Auto-S5,4WD,Gasoline,small car,6.0,17.0,24.0,20.0,6,no,SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20.0,28.0,23.0,5,No
+799,TOYOTA 4Runner,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,15.0,19.0,17.0,4,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,2WD,Gasoline,standard SUV,3,17.0,21.0,18.0,3,No
+800,TOYOTA 4Runner,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,15.0,19.0,17.0,4,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,4WD,Gasoline,standard SUV,3,17.0,20.0,18.0,3,No
+801,TOYOTA 4Runner,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,14.0,17.0,15.0,3,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,2WD,Gasoline,standard SUV,3,17.0,21.0,18.0,3,No
+802,TOYOTA 4Runner,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,14.0,17.0,15.0,3,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,4WD,Gasoline,standard SUV,3,17.0,20.0,18.0,3,No
+803,TOYOTA 4Runner,4.0,6,Auto-L5,2WD,Gasoline,SUV,6.0,16.0,21.0,18.0,5,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,2WD,Gasoline,standard SUV,3,17.0,21.0,18.0,3,No
+804,TOYOTA 4Runner,4.0,6,Auto-L5,2WD,Gasoline,SUV,6.0,16.0,21.0,18.0,5,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,4WD,Gasoline,standard SUV,3,17.0,20.0,18.0,3,No
+805,TOYOTA 4Runner,4.0,6,Auto-L5,4WD,Gasoline,SUV,6.0,16.0,20.0,17.0,4,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,2WD,Gasoline,standard SUV,3,17.0,21.0,18.0,3,No
+806,TOYOTA 4Runner,4.0,6,Auto-L5,4WD,Gasoline,SUV,6.0,16.0,20.0,17.0,4,no,TOYOTA 4Runner,4.0,6.0,SemiAuto-5,4WD,Gasoline,standard SUV,3,17.0,20.0,18.0,3,No
+807,TOYOTA Avalon,3.5,6,Auto-S6,2WD,Gasoline,large car,7.0,19.0,28.0,22.0,6,yes,TOYOTA Avalon,3.5,6.0,SemiAuto-6,2WD,Gasoline,midsize car,3,21.0,30.0,24.0,5,No
+808,TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,9.5,21.0,31.0,25.0,7,yes,TOYOTA Camry,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,29.0,41.0,34.0,8,Yes
+809,TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,9.5,21.0,31.0,25.0,7,yes,TOYOTA Camry,3.5,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,33.0,26.0,5,No
+810,TOYOTA Camry,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,TOYOTA Camry,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,29.0,41.0,34.0,8,Yes
+811,TOYOTA Camry,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,TOYOTA Camry,3.5,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,33.0,26.0,5,No
+812,TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,TOYOTA Camry,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,29.0,41.0,34.0,8,Yes
+813,TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes,TOYOTA Camry,3.5,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,33.0,26.0,5,No
+814,TOYOTA Camry,3.5,6,Auto-S6,2WD,Gasoline,midsize car,7.0,19.0,28.0,22.0,6,yes,TOYOTA Camry,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,29.0,41.0,34.0,8,Yes
+815,TOYOTA Camry,3.5,6,Auto-S6,2WD,Gasoline,midsize car,7.0,19.0,28.0,22.0,6,yes,TOYOTA Camry,3.5,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22.0,33.0,26.0,5,No
+816,TOYOTA Corolla,1.8,4,Auto-L4,2WD,Gasoline,small car,7.0,26.0,35.0,29.0,8,yes,TOYOTA Corolla,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,28.0,36.0,32.0,7,Yes
+817,TOYOTA Corolla,1.8,4,Auto-L4,2WD,Gasoline,small car,7.0,26.0,35.0,29.0,8,yes,TOYOTA Corolla,1.8,4.0,Man-6,2WD,Gasoline,midsize car,3,27.0,35.0,30.0,7,Yes
+818,TOYOTA Corolla,1.8,4,Auto-L4,2WD,Gasoline,small car,7.0,26.0,35.0,29.0,8,yes,TOYOTA Corolla,1.8,4.0,SCV-7,2WD,Gasoline,midsize car,3,28.0,35.0,31.0,7,Yes
+819,TOYOTA Corolla,1.8,4,Man-5,2WD,Gasoline,small car,7.0,28.0,37.0,31.0,9,yes,TOYOTA Corolla,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,28.0,36.0,32.0,7,Yes
+820,TOYOTA Corolla,1.8,4,Man-5,2WD,Gasoline,small car,7.0,28.0,37.0,31.0,9,yes,TOYOTA Corolla,1.8,4.0,Man-6,2WD,Gasoline,midsize car,3,27.0,35.0,30.0,7,Yes
+821,TOYOTA Corolla,1.8,4,Man-5,2WD,Gasoline,small car,7.0,28.0,37.0,31.0,9,yes,TOYOTA Corolla,1.8,4.0,SCV-7,2WD,Gasoline,midsize car,3,28.0,35.0,31.0,7,Yes
+822,TOYOTA Land Cruiser,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,18.0,15.0,3,no,TOYOTA Land Cruiser,5.7,8.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,13.0,18.0,15.0,2,No
+823,TOYOTA RAV4,2.4,4,Auto-L4,2WD,Gasoline,SUV,7.0,21.0,27.0,24.0,7,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,23.0,29.0,25.0,5,No
+824,TOYOTA RAV4,2.4,4,Auto-L4,2WD,Gasoline,SUV,7.0,21.0,27.0,24.0,7,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,22.0,28.0,25.0,5,No
+825,TOYOTA RAV4,2.4,4,Auto-L4,4WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,23.0,29.0,25.0,5,No
+826,TOYOTA RAV4,2.4,4,Auto-L4,4WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,22.0,28.0,25.0,5,No
+827,TOYOTA RAV4,3.5,6,Auto-L5,2WD,Gasoline,SUV,7.0,19.0,27.0,22.0,6,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,23.0,29.0,25.0,5,No
+828,TOYOTA RAV4,3.5,6,Auto-L5,2WD,Gasoline,SUV,7.0,19.0,27.0,22.0,6,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,22.0,28.0,25.0,5,No
+829,TOYOTA RAV4,3.5,6,Auto-L5,4WD,Gasoline,SUV,7.0,19.0,26.0,21.0,6,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,23.0,29.0,25.0,5,No
+830,TOYOTA RAV4,3.5,6,Auto-L5,4WD,Gasoline,SUV,7.0,19.0,26.0,21.0,6,yes,TOYOTA RAV4,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,22.0,28.0,25.0,5,No
+831,TOYOTA Sequoia,4.7,8,Auto-S5,2WD,Gasoline,SUV,7.0,14.0,17.0,15.0,3,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,2WD,Gasoline,standard SUV,5,13.0,17.0,15.0,2,No
+832,TOYOTA Sequoia,4.7,8,Auto-S5,2WD,Gasoline,SUV,7.0,14.0,17.0,15.0,3,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,4WD,Gasoline,standard SUV,5,13.0,17.0,14.0,1,No
+833,TOYOTA Sequoia,4.7,8,Auto-S5,4WD,Gasoline,SUV,7.0,13.0,16.0,14.0,2,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,2WD,Gasoline,standard SUV,5,13.0,17.0,15.0,2,No
+834,TOYOTA Sequoia,4.7,8,Auto-S5,4WD,Gasoline,SUV,7.0,13.0,16.0,14.0,2,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,4WD,Gasoline,standard SUV,5,13.0,17.0,14.0,1,No
+835,TOYOTA Sequoia,5.7,8,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,2WD,Gasoline,standard SUV,5,13.0,17.0,15.0,2,No
+836,TOYOTA Sequoia,5.7,8,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,4WD,Gasoline,standard SUV,5,13.0,17.0,14.0,1,No
+837,TOYOTA Sequoia,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,18.0,15.0,3,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,2WD,Gasoline,standard SUV,5,13.0,17.0,15.0,2,No
+838,TOYOTA Sequoia,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,18.0,15.0,3,no,TOYOTA Sequoia,5.7,8.0,SemiAuto-6,4WD,Gasoline,standard SUV,5,13.0,17.0,14.0,1,No
+839,TOYOTA Tundra,4.7,8,Auto-S5,2WD,Gasoline,pickup,7.0,14.0,17.0,15.0,3,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,2WD,Gasoline,pickup,3,15.0,19.0,16.0,2,No
+840,TOYOTA Tundra,4.7,8,Auto-S5,2WD,Gasoline,pickup,7.0,14.0,17.0,15.0,3,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,4WD,Gasoline,pickup,3,14.0,18.0,16.0,2,No
+841,TOYOTA Tundra,4.7,8,Auto-S5,2WD,Gasoline,pickup,7.0,14.0,17.0,15.0,3,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,2WD,Gasoline,pickup,5,13.0,18.0,15.0,2,No
+842,TOYOTA Tundra,4.7,8,Auto-S5,2WD,Gasoline,pickup,7.0,14.0,17.0,15.0,3,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,4WD,Gasoline,pickup,5,13.0,17.0,14.0,1,No
+843,TOYOTA Tundra,4.7,8,Auto-S5,4WD,Gasoline,pickup,7.0,13.0,16.0,15.0,3,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,2WD,Gasoline,pickup,3,15.0,19.0,16.0,2,No
+844,TOYOTA Tundra,4.7,8,Auto-S5,4WD,Gasoline,pickup,7.0,13.0,16.0,15.0,3,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,4WD,Gasoline,pickup,3,14.0,18.0,16.0,2,No
+845,TOYOTA Tundra,4.7,8,Auto-S5,4WD,Gasoline,pickup,7.0,13.0,16.0,15.0,3,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,2WD,Gasoline,pickup,5,13.0,18.0,15.0,2,No
+846,TOYOTA Tundra,4.7,8,Auto-S5,4WD,Gasoline,pickup,7.0,13.0,16.0,15.0,3,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,4WD,Gasoline,pickup,5,13.0,17.0,14.0,1,No
+847,TOYOTA Tundra,5.7,8,Auto-S6,2WD,Gasoline,pickup,7.0,14.0,18.0,16.0,4,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,2WD,Gasoline,pickup,3,15.0,19.0,16.0,2,No
+848,TOYOTA Tundra,5.7,8,Auto-S6,2WD,Gasoline,pickup,7.0,14.0,18.0,16.0,4,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,4WD,Gasoline,pickup,3,14.0,18.0,16.0,2,No
+849,TOYOTA Tundra,5.7,8,Auto-S6,2WD,Gasoline,pickup,7.0,14.0,18.0,16.0,4,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,2WD,Gasoline,pickup,5,13.0,18.0,15.0,2,No
+850,TOYOTA Tundra,5.7,8,Auto-S6,2WD,Gasoline,pickup,7.0,14.0,18.0,16.0,4,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,4WD,Gasoline,pickup,5,13.0,17.0,14.0,1,No
+851,TOYOTA Tundra,5.7,8,Auto-S6,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,2WD,Gasoline,pickup,3,15.0,19.0,16.0,2,No
+852,TOYOTA Tundra,5.7,8,Auto-S6,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,4WD,Gasoline,pickup,3,14.0,18.0,16.0,2,No
+853,TOYOTA Tundra,5.7,8,Auto-S6,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,2WD,Gasoline,pickup,5,13.0,18.0,15.0,2,No
+854,TOYOTA Tundra,5.7,8,Auto-S6,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,4WD,Gasoline,pickup,5,13.0,17.0,14.0,1,No
+855,TOYOTA Tundra,4.0,6,Auto-S5,2WD,Gasoline,pickup,6.0,15.0,19.0,17.0,4,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,2WD,Gasoline,pickup,3,15.0,19.0,16.0,2,No
+856,TOYOTA Tundra,4.0,6,Auto-S5,2WD,Gasoline,pickup,6.0,15.0,19.0,17.0,4,no,TOYOTA Tundra,4.6,8.0,SemiAuto-6,4WD,Gasoline,pickup,3,14.0,18.0,16.0,2,No
+857,TOYOTA Tundra,4.0,6,Auto-S5,2WD,Gasoline,pickup,6.0,15.0,19.0,17.0,4,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,2WD,Gasoline,pickup,5,13.0,18.0,15.0,2,No
+858,TOYOTA Tundra,4.0,6,Auto-S5,2WD,Gasoline,pickup,6.0,15.0,19.0,17.0,4,no,TOYOTA Tundra,5.7,8.0,SemiAuto-6,4WD,Gasoline,pickup,5,13.0,17.0,14.0,1,No
+859,TOYOTA Yaris,1.5,4,Auto-L4,2WD,Gasoline,small car,7.0,29.0,35.0,31.0,9,yes,TOYOTA Yaris,1.5,4.0,Auto-4,2WD,Gasoline,small car,3,30.0,35.0,32.0,7,Yes
+860,TOYOTA Yaris,1.5,4,Auto-L4,2WD,Gasoline,small car,7.0,29.0,35.0,31.0,9,yes,TOYOTA Yaris,1.5,4.0,Man-5,2WD,Gasoline,small car,3,30.0,36.0,33.0,8,Yes
+861,TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,small car,7.0,29.0,36.0,32.0,9,yes,TOYOTA Yaris,1.5,4.0,Auto-4,2WD,Gasoline,small car,3,30.0,35.0,32.0,7,Yes
+862,TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,small car,7.0,29.0,36.0,32.0,9,yes,TOYOTA Yaris,1.5,4.0,Man-5,2WD,Gasoline,small car,3,30.0,36.0,33.0,8,Yes
+863,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28.0,40.0,33.0,8,Yes
+864,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28.0,38.0,32.0,7,Yes
+865,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24.0,33.0,28.0,6,No
+866,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24.0,33.0,27.0,6,No
+867,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28.0,40.0,33.0,8,Yes
+868,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28.0,38.0,32.0,7,Yes
+869,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24.0,33.0,28.0,6,No
+870,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24.0,33.0,27.0,6,No
+871,VOLKSWAGEN Jetta,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28.0,40.0,33.0,8,Yes
+872,VOLKSWAGEN Jetta,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28.0,38.0,32.0,7,Yes
+873,VOLKSWAGEN Jetta,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24.0,33.0,28.0,6,No
+874,VOLKSWAGEN Jetta,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24.0,33.0,27.0,6,No
+875,VOLKSWAGEN Jetta,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28.0,40.0,33.0,8,Yes
+876,VOLKSWAGEN Jetta,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28.0,38.0,32.0,7,Yes
+877,VOLKSWAGEN Jetta,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes,VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24.0,33.0,28.0,6,No
+878,VOLKSWAGEN Jetta,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes,VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24.0,33.0,27.0,6,No
+879,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28.0,40.0,33.0,8,Yes
+880,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28.0,38.0,32.0,7,Yes
+881,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24.0,33.0,28.0,6,No
+882,VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24.0,33.0,27.0,6,No
+883,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28.0,40.0,33.0,8,Yes
+884,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28.0,38.0,32.0,7,Yes
+885,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24.0,33.0,28.0,6,No
+886,VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24.0,33.0,27.0,6,No
+887,VOLKSWAGEN Passat,2.0,4,Auto-S6,2WD,Gasoline,midsize car,7.0,19.0,28.0,22.0,6,yes,VOLKSWAGEN Passat,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,25.0,36.0,29.0,6,No
+888,VOLKSWAGEN Passat,2.0,4,Man-6,2WD,Gasoline,midsize car,7.0,21.0,29.0,24.0,7,yes,VOLKSWAGEN Passat,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,25.0,36.0,29.0,6,No
+889,VOLKSWAGEN Passat,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,16.0,24.0,19.0,5,no,VOLKSWAGEN Passat,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,25.0,36.0,29.0,6,No
+890,VOLKSWAGEN Passat,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no,VOLKSWAGEN Passat,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,25.0,36.0,29.0,6,No
+891,VOLVO S60,2.5,5,Auto-L5,4WD,Gasoline,small car,7.0,17.0,26.0,21.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25.0,36.0,29.0,6,No
+892,VOLVO S60,2.5,5,Auto-L5,4WD,Gasoline,small car,7.0,17.0,26.0,21.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,32.0,26.0,5,No
+893,VOLVO S60,2.5,5,Auto-L5,4WD,Gasoline,small car,7.0,17.0,26.0,21.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,33.0,26.0,5,No
+894,VOLVO S60,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25.0,36.0,29.0,6,No
+895,VOLVO S60,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,32.0,26.0,5,No
+896,VOLVO S60,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,33.0,26.0,5,No
+897,VOLVO S60,2.5,5,Auto-L5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25.0,36.0,29.0,6,No
+898,VOLVO S60,2.5,5,Auto-L5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,32.0,26.0,5,No
+899,VOLVO S60,2.5,5,Auto-L5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,33.0,26.0,5,No
+900,VOLVO S60,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25.0,36.0,29.0,6,No
+901,VOLVO S60,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,32.0,26.0,5,No
+902,VOLVO S60,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,33.0,26.0,5,No
+903,VOLVO S60,2.4,5,Auto-S5,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no,VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25.0,36.0,29.0,6,No
+904,VOLVO S60,2.4,5,Auto-S5,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,32.0,26.0,5,No
+905,VOLVO S60,2.4,5,Auto-S5,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,33.0,26.0,5,No
+906,VOLVO S60,2.4,5,Man-6,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no,VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25.0,36.0,29.0,6,No
+907,VOLVO S60,2.4,5,Man-6,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,32.0,26.0,5,No
+908,VOLVO S60,2.4,5,Man-6,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no,VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22.0,33.0,26.0,5,No
+909,VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,2WD,Gasoline,standard SUV,5,22.0,29.0,25.0,5,No
+910,VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,22.0,28.0,24.0,5,No
+911,VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,20.0,27.0,23.0,5,No
+912,VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,7,26.0,30.0,27.0,10,Elite
+913,VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Electricity,standard SUV,7,63.0,61.0,62.0,10,Elite
+914,VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,2WD,Gasoline,standard SUV,5,22.0,29.0,25.0,5,No
+915,VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,22.0,28.0,24.0,5,No
+916,VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,20.0,27.0,23.0,5,No
+917,VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,7,26.0,30.0,27.0,10,Elite
+918,VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Electricity,standard SUV,7,63.0,61.0,62.0,10,Elite
+919,VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,2WD,Gasoline,standard SUV,5,22.0,29.0,25.0,5,No
+920,VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,22.0,28.0,24.0,5,No
+921,VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,20.0,27.0,23.0,5,No
+922,VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,7,26.0,30.0,27.0,10,Elite
+923,VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no,VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Electricity,standard SUV,7,63.0,61.0,62.0,10,Elite
+924,MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,ethanol,small car,6.0,13.0,19.0,15.0,7,no,MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,22.0,29.0,25.0,5,No
+925,MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,ethanol,small car,6.0,13.0,19.0,15.0,7,no,MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,22.0,30.0,25.0,5,No
+926,MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,ethanol,small car,6.0,13.0,19.0,15.0,7,no,MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,24.0,33.0,27.0,6,No
+927,MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,gas,small car,4.0,18.0,25.0,21.0,6,no,MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,22.0,29.0,25.0,5,No
+928,MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,gas,small car,4.0,18.0,25.0,21.0,6,no,MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,22.0,30.0,25.0,5,No
+929,MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,gas,small car,4.0,18.0,25.0,21.0,6,no,MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,24.0,33.0,27.0,6,No
